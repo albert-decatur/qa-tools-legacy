@@ -30,7 +30,7 @@ Legacy utilities are organized into these categories:
 * geonames
   * for scraping latest GeoNames from either API or a SQLite database made from the text dumps
   * builds all fields required for locations.tsv
-* other
+* generic
 
 Utilities typically assume TSV input and print TSV output to STDOUT.
 
@@ -70,11 +70,11 @@ Glad you asked!
 ### find_disagreeingFields_for_notUniqPairs.sh
 
 ```bash
-# this script combines other/search_TSVbyTSV.sh and cardinality/find_notUniqPairs.sh to find 
+# this script combines generic/search_TSVbyTSV.sh and cardinality/find_notUniqPairs.sh to find 
 # example: determine the fields which prevent project_id and geoname_id from being unique pairs, for example disagreement in the precision code fields (ie, the same project_id/geoname_id pair might have a precision 6 sometimes and a precision 8 sometimes)
 # output format: a TSV with fields for the not unique pair and a pipe separated list of fields that keep that pair from not being unique (note the special case where you have true duplicate records is not covered)
 # sadly, that "./" must really be in front of transpose.sh - should fix
-./find_disagreeingFields_for_notUniqPairs.sh locations.tsv 1 2 ../../other/search_TSVbyTSV.sh ../../cardinality/find_notUniqPairs.sh ./transpose_tsv.sh
+./find_disagreeingFields_for_notUniqPairs.sh locations.tsv 1 2 ../../generic/search_TSVbyTSV.sh ../../cardinality/find_notUniqPairs.sh ./transpose_tsv.sh
 ```
 
 ## dates
@@ -180,7 +180,7 @@ NB:
     * this is common
 * for get_geonamesFields_fromSQLite.sh, the geonamesAPI_retrievalTime field refers not to the retrieval time but the modification time in the GeoNames text dump
 
-## other
+## generic
 
 ### find_invalidEntries_givenTable.sh
 
