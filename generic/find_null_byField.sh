@@ -2,7 +2,8 @@
 
 # args: 1) input TSV, 2) regexp for null
 # return TSV showing the percent of every field that matches null value provided
-# example use: $0 amp.csv "^\s*$|0"
+# note that instead of null you could use any arbitrary pattern
+# example use: $0 amp.csv "^(\s|0)*$"
 
 echo -e "field_name\tfield_num\tcount_null\tprct_null"
 intsv=$1
