@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# find location type / precision code combinations that are not allowable in an input TSV according to an input spreadsheet of allowable combos
+# for the purposes of aiddata, find location type / precision code combinations that are not allowable in an input TSV according to an input spreadsheet of allowable combos
 # allowable combos TSV has to have this structure: first col is location type, remaning cols are allowable precision codes for that location type
-# user args: 1) input TSV to check, 2) input TSV precision code field number, 3) input TSV location type field number, 4) TSV of allowable precision codes
+# user args: 1) input TSV to check, 2) input TSV location type field number, 3) input TSV precision code field number, 4) TSV of allowable precision codes
 # example use: $0 foo.tsv 28 29 allowableCombos.tsv
 
 intsv=$1
-in_precCodeField=$2
-in_locTypeField=$3
+in_locTypeField=$2
+in_precCodeField=$3
 acceptLocPrec=$4
 
 # header

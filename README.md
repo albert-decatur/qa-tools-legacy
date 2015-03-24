@@ -166,16 +166,30 @@ The SQLite database that you need to use with this script can be built with the 
 Once you build that SQLite database, all you have to do is run the script just like you did with fromAPI/get_geonamesFields_fromAPI.sh, except with the path to the database instead of your GeoNames username:
 
 ```bash
-
+# use your GeoNames SQLite database to get locations.tsv fields for geoname_id in input TSV
+./get_geonamesFields_fromSQLite.sh ../example_inputs/to_geocode.tsv 2 /path/to/geonameSQLiteDB/geonames_YYYY-MM-DD.sqlite
 ```
 
-NB: you should rebuild your SQLite database of GeoNames on occaison to keep up to date.
-Also, [geonames2sqlite](https://github.com/albert-decatur/geonames2sqlite) does not yet handle the following properly:
+NB: 
 
-* when GeoNames entries have the wrong number of fields
-  * this is typically due to GeoNames inserting a line break inappropriately
-* when GeoNames entries themselves are quoted
-  * this is common
+* you should rebuild your SQLite database of GeoNames on occaison to keep up to date.
+* [geonames2sqlite](https://github.com/albert-decatur/geonames2sqlite) does not yet handle the following properly:
+  * when GeoNames entries have the wrong number of fields
+    * this is typically due to GeoNames inserting a line break inappropriately
+  * when GeoNames entries themselves are quoted
+    * this is common
+* for get_geonamesFields_fromSQLite.sh, the geonamesAPI_retrievalTime field refers not to the retrieval time but the modification time in the GeoNames text dump
+
+## other
+
+### find_invalidEntries_givenTable.sh
+
+This script will find invalid combinations of values from two fields given an input TSV and an allowable combos TSV.
+
+```bash
+# in this example, fine location type / precision code pairs in Nepal project locations that fall outside the allowable list called loctypes_allowable.tsv
+./find_invalidEntries_givenTable.sh example_inputs/NPL_geocoded_projectLocations.tsv 8 3 example_inputs/loctypes_allowable.tsv
+```
 
 # prerequisites
 
