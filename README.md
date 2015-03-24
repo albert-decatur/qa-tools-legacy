@@ -191,6 +191,54 @@ This script will find invalid combinations of values from two fields given an in
 ./find_invalidEntries_givenTable.sh example_inputs/NPL_geocoded_projectLocations.tsv 8 3 example_inputs/loctypes_allowable.tsv
 ```
 
+### find_null_byField.sh
+
+```bash
+# in this example, for each field in the input TSV, count the number of records that match the regex, and report on the percent of each field this is
+# NB: this regex could be anything - searching for nulls is simply an obvious application
+./find_null_byField.sh example_inputs/NPL_geocoded_projectLocations.tsv "^(\s|0)*$"
+```
+
+### multi_field_join.sh
+
+Join two TSVs by more than one field at once, for example project_id and geoname_id.
+This simply concatenates these fields and removes the duplicates after the join.
+
+```bash
+# in this example, join on the first two fields of each TSV, concatenating their output and removing fields that were duplicated due to the join
+# this example uses the outer join type but right and left are possible, as well as inner which is called by not specifying a type (as per csvjoin)
+./multi_field_join.sh example_inputs/NPL_AMP_projects.tsv example_inputs/NPL_geocoded_projectLocations.tsv "1 2" outer
+```
+
+### make_concat_field.sh
+
+Concatenate fields from a TSV.
+
+```bash
+# in this example, concatenate the first two fields to make an ID field
+# put that field at the front of the new TSV
+# arguments are the input TSV, the fields to concatenate, and the name of the new output field
+./make_concat_field.sh example_inputs/NPL_AMP_projects.tsv 1 2 ID_field
+```
+
+### 
+
+
+```bash
+```
+
+### 
+
+
+```bash
+```
+
+### 
+
+
+```bash
+```
+
 # prerequisites
 
 * mawk
@@ -200,6 +248,7 @@ This script will find invalid combinations of values from two fields given an in
 * Gnumeric
   * for ssconvert
     * might be replaced with in2csv, but need outputs to be tabs as is
+* csvkit
 * moreutils
   * for mktemp, and potentially sponge
     * note that moreutils has a util named parallel.  this comes into conflict with GNU parallel which must be compiled from source

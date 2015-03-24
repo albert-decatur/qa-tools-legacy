@@ -47,4 +47,6 @@ parallel --gnu '
 	)
 	search_record=$( mawk -F"\t" "{OFS=\"\t\";if( $awkstring_patternvalues )print \$0 }" '$search' )
 	echo "$search_record"
-'
+' |\
+# remove blank lines
+grep -vE "^$"

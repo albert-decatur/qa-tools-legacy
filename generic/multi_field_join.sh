@@ -4,6 +4,7 @@
 # prereqs: 1) csvkit, 2) ssconvert from gnumeric for table2tsv function (seen csvformat fail)
 # below example joins a.tsv and b.tsv by concatenating fields 1 and 2 from each and using csvjoin on output, 3) join type from csvkit (outer,left,right)
 # if no join type is given then inner is assumed
+# NB: inner join does not yet have duplicate field removal
 # example use: $0 a.tsv b.tsv "1 2" outer
 
 a=$1
