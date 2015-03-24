@@ -1,0 +1,26 @@
+loctype	pcode	pcode	pcode	pcode
+airport	1	2		
+bay	1	2	5	
+bridge	1	2		
+building(s)	1	2		
+"capital of a political entity"	1	2		
+estuary	1	2	5	
+"first-order administrative division"	4			
+forest(s)	1	2	5	
+hill	1	2	5	
+hills	1	2	5	
+hospital	1	2		
+"independent political entity"	6	8		
+park	1	2	5	
+point	1	2	5	
+"populated place"	1	2		
+"power station"	1	2		
+region	2	3	4	5
+school	1	2		
+"seat of a first-order administrative division"	1	2		
+"second-order administrative division"	3			
+"section of populated place"	1	2		
+stream	1	2	5	
+"tidal creek(s)"	1	2	5	
+university	1	2		
+valley	1	2	5	

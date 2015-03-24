@@ -1,0 +1,904 @@
+geonameID	placename	latitude	longitude	location_type_code	location_type	geonames_ADMcode	geonames_ADMname	geonamesAPI_retrievalTime
+1024552								2015-03-24T15:06:48+0000
+1024312								2015-03-24T15:06:48+0000
+1024292								2015-03-24T15:06:48+0000
+1024062	Circunscrição do Zumbo	-15.23723	30.94424	ADMD	administrative division	MZ|00		2015-03-24T15:06:48+0000
+1024694	Mocuba	-16.8375	36.98556	PPL	populated place	MZ|09	Mozambique|Zambézia	2015-03-24T15:06:48+0000
+1026010	Tete	-15.5	33	ADM1	first-order administrative division	MZ|08	Mozambique|Tete	2015-03-24T15:06:48+0000
+1024696	Dondo	-19.60944	34.74306	PPL	populated place	MZ|05	Mozambique|Sofala	2015-03-24T15:06:48+0000
+1028434	Quelimane	-17.87861	36.88833	PPLA	seat of a first-order administrative division	MZ|09	Mozambique|Zambézia	2015-03-24T15:06:48+0000
+1024688	Marracuene	-25.73694	32.67639	PPL	populated place	MZ|04	Mozambique|Maputo	2015-03-24T15:06:49+0000
+1026804	Sofala Province	-19.2	34.8	ADM1	first-order administrative division	MZ|05	Mozambique|Sofala	2015-03-24T15:06:49+0000
+1028918	Pemba	-12.97395	40.51775	PPLA	seat of a first-order administrative division	MZ|01	Mozambique|Cabo Delgado	2015-03-24T15:06:49+0000
+1031835	Nhachengue	-22.84472	35.18056	PPL	populated place	MZ|03	Mozambique|Inhambane	2015-03-24T15:06:49+0000
+1033354	Nampula	-15	39	ADM1	first-order administrative division	MZ|06	Mozambique|Nampula	2015-03-24T15:06:49+0000
+1033356	Nampula	-15.11646	39.2666	PPLA	seat of a first-order administrative division	MZ|06	Mozambique|Nampula	2015-03-24T15:06:49+0000
+1033828	Nametil	-14.21667	40.55	PPL	populated place	MZ|00		2015-03-24T15:06:49+0000
+1035025	Nacala	-14.56257	40.68538	PPL	populated place	MZ|06	Mozambique|Nampula	2015-03-24T15:06:49+0000
+1035175	Muvingue	-20.57694	33.83583	PPL	populated place	MZ|05	Mozambique|Sofala	2015-03-24T15:06:50+0000
+1035304	Circunscrição da Mutarara	-16.86781	34.77309	ADM2	second-order administrative division	MZ|08|1035304	Mozambique|Tete|Circunscrição da Mutarara	2015-03-24T15:06:50+0000
+1036973	Mozambique	-18.25	35	PCLI	independent political entity	MZ|00		2015-03-24T15:06:50+0000
+1037018	Circunscrição de Mossurize	-20.51262	32.94367	ADM2	second-order administrative division	MZ|10|1037018	Mozambique|Manica|Circunscrição de Mossurize	2015-03-24T15:06:50+0000
+1037394	Moatize	-15.97317	34.00248	ADM2	second-order administrative division	MZ|08|1037394	Mozambique|Tete|Moatize	2015-03-24T15:06:50+0000
+1037109	Circunscrição de Mopeia	-17.83292	36.0626	ADM2	second-order administrative division	MZ|09|1037109	Mozambique|Zambézia|Circunscrição de Mopeia	2015-03-24T15:06:50+0000
+1038896	Meluco	-12.54028	39.64472	PPL	populated place	MZ|01	Mozambique|Cabo Delgado	2015-03-24T15:06:50+0000
+1039536	Maxixe	-23.85972	35.34722	PPL	populated place	MZ|03	Mozambique|Inhambane	2015-03-24T15:06:50+0000
+1039854	Matola	-25.96222	32.45889	PPLA	seat of a first-order administrative division	MZ|04	Mozambique|Maputo	2015-03-24T15:06:50+0000
+1038879	Memba	-13.96591	40.39437	ADM2	second-order administrative division	MZ|06|1038879	Mozambique|Nampula|Memba	2015-03-24T15:06:50+0000
+1040649	Maputo	-25.5	32.33333	ADM1	first-order administrative division	MZ|04	Mozambique|Maputo	2015-03-24T15:06:51+0000
+1040587	Circunscrição de Marávia	-15.0931	32.06545	ADM2	second-order administrative division	MZ|08|1040587	Mozambique|Tete|Circunscrição de Marávia	2015-03-24T15:06:51+0000
+1040396	Circunscrição de Marromeu	-18.42526	35.74098	ADM2	second-order administrative division	MZ|05|1040396	Mozambique|Sofala|Circunscrição de Marromeu	2015-03-24T15:06:51+0000
+1040652	Maputo	-25.96553	32.58322	PPLC	capital of a political entity	MZ|11	Mozambique|Maputo City	2015-03-24T15:06:51+0000
+1040947	Manica Province	-19	33.5	ADM1	first-order administrative division	MZ|10	Mozambique|Manica	2015-03-24T15:06:51+0000
+1040989	Manhiça	-25.40222	32.80722	PPLA2	seat of a second-order administrative division	MZ|04	Mozambique|Maputo	2015-03-24T15:06:51+0000
+1040948	Concelho de Manica	-18.94857	32.89509	ADM2	second-order administrative division	MZ|10|1040948	Mozambique|Manica|Concelho de Manica	2015-03-24T15:06:51+0000
+1041912	Circunscrição de Màgoé	-15.90349	31.36636	ADM2	second-order administrative division	MZ|08|1041912	Mozambique|Tete|Circunscrição de Màgoé	2015-03-24T15:06:52+0000
+1042256	Macupulane	-24.80861	33.98611	PPL	populated place	MZ|02	Mozambique|Gaza	2015-03-24T15:06:52+0000
+1045289	Inchope	-19.19472	33.89389	PPL	populated place	MZ|10	Mozambique|Manica	2015-03-24T15:06:52+0000
+1042871	Circunscrição da Macanga	-14.80209	33.53494	ADM2	second-order administrative division	MZ|08|1042871	Mozambique|Tete|Circunscrição da Macanga	2015-03-24T15:06:52+0000
+1045351	Circunscrição do Ile	-16.18038	37.46609	ADM2	second-order administrative division	MZ|09|1045351	Mozambique|Zambézia|Circunscrição do Ile	2015-03-24T15:06:53+0000
+1045789	Gorongosa District	-18.609	34.238	ADM2	second-order administrative division	MZ|05|1045789	Mozambique|Sofala|Gorongosa District	2015-03-24T15:06:53+0000
+1043893	Lichinga	-13.31278	35.24056	PPLA	seat of a first-order administrative division	MZ|07	Mozambique|Niassa	2015-03-24T15:06:53+0000
+1046058	Gaza Province	-23.5	33	ADM1	first-order administrative division	MZ|02	Mozambique|Gaza	2015-03-24T15:06:53+0000
+1049181	Concelho do Chinde	-18.39491	36.32268	ADM2	second-order administrative division	MZ|09|1049181	Mozambique|Zambézia|Concelho do Chinde	2015-03-24T15:06:53+0000
+1051823	Cabo Delgado Province	-12.5	39.4	ADM1	first-order administrative division	MZ|01	Mozambique|Cabo Delgado	2015-03-24T15:06:53+0000
+1050368	Changalane	-26.29139	32.18972	PPL	populated place	MZ|04	Mozambique|Maputo	2015-03-24T15:06:53+0000
+1049858	Concelho do Chibuto	-24.25	33.5	ADM2	second-order administrative division	MZ|02|1049858	Mozambique|Gaza|Concelho do Chibuto	2015-03-24T15:06:53+0000
+1051852	Concelho do Búzi	-20.03925	34.37237	ADM2	second-order administrative division	MZ|05|1051852	Mozambique|Sofala|Concelho do Búzi	2015-03-24T15:06:54+0000
+1052446	Barue District	-17.81047	33.17266	ADM2	second-order administrative division	MZ|10|1052446	Mozambique|Manica|Barue District	2015-03-24T15:06:54+0000
+1052373	Beira	-19.84361	34.83889	PPLA	seat of a first-order administrative division	MZ|05	Mozambique|Sofala	2015-03-24T15:06:54+0000
+1052937	Circunscrição da Angónia	-14.67449	34.16316	ADM2	second-order administrative division	MZ|08|1052937	Mozambique|Tete|Circunscrição da Angónia	2015-03-24T15:06:54+0000
+1052944	Angoche	-16.2325	39.90861	PPL	populated place	MZ|06	Mozambique|Nampula	2015-03-24T15:06:54+0000
+1053142	Alto Molócuè	-15.64932	37.66384	ADM2	second-order administrative division	MZ|09|1053142	Mozambique|Zambézia|Alto Molócuè	2015-03-24T15:06:54+0000
+1053384	Toamasina	-18.1492	49.40234	PPLA	seat of a first-order administrative division	MG|7670857	Madagascar|Atsinanana	2015-03-24T15:06:54+0000
+1062663	Mahajanga	-15.71667	46.31667	PPLA	seat of a first-order administrative division	MG|7670849	Madagascar|Boeny	2015-03-24T15:06:54+0000
+1055429	Toliara	-23.35	43.66667	PPLA	seat of a first-order administrative division	MG|7670913|8299677	Madagascar|Atsimo-Andrefana|Toliara I District	2015-03-24T15:06:54+0000
+1064890	Fianarantsoa	-21.45267	47.08569	PPLA	seat of a first-order administrative division	MG|7670905	Madagascar|Upper Matsiatra	2015-03-24T15:06:55+0000
+1069129	Antsiranana	-12.2787	49.29171	PPLA	seat of a first-order administrative division	MG|7670842	Madagascar|Diana	2015-03-24T15:06:55+0000
+1090080	Manhica	-25.39417	32.83389	ADM2	second-order administrative division	MZ|04|1090080	Mozambique|Maputo|Manhica	2015-03-24T15:06:55+0000
+1105527	Incoluane	-25.0625	32.92833	PPL	populated place	MZ|04	Mozambique|Maputo	2015-03-24T15:06:55+0000
+1070940	Antananarivo	-18.91368	47.53613	PPLC	capital of a political entity	MG|7670856	Madagascar|Analamanga	2015-03-24T15:06:55+0000
+1125426	Shighnan	37.61667	71.45	ADM2	second-order administrative division	AF|01|1125426	Afghanistan|Badakhshan|Shighnan District	2015-03-24T15:06:56+0000
+1164807	Sindh	26.13456	68.7696	ADM1	first-order administrative division	PK|05	Pakistan|Sindh	2015-03-24T15:06:56+0000
+1166993	Rawalpindi	33.6007	73.0679	PPLA2	seat of a second-order administrative division	PK|04	Pakistan|Punjab	2015-03-24T15:06:56+0000
+1168197	Peshawar	34.008	71.57849	PPLA	seat of a first-order administrative division	PK|03	Pakistan|Khyber Pakhtunkhwa	2015-03-24T15:06:56+0000
+1167710	Punjab	30.86017	72.31976	ADM1	first-order administrative division	PK|04	Pakistan|Punjab	2015-03-24T15:06:56+0000
+1168873	Khyber Pakhtunkhwa	34.45993	72.50237	ADM1	first-order administrative division	PK|03	Pakistan|Khyber Pakhtunkhwa	2015-03-24T15:06:56+0000
+1169607	Muzaffarabad	34.37002	73.47082	PPLA	seat of a first-order administrative division	PK|06	Pakistan|Azad Kashmir	2015-03-24T15:06:56+0000
+1172451	Lahore	31.54972	74.34361	PPLA	seat of a first-order administrative division	PK|04	Pakistan|Punjab	2015-03-24T15:06:57+0000
+1176734	Hyderabad	25.39242	68.37366	PPLA2	seat of a second-order administrative division	PK|05	Pakistan|Sindh	2015-03-24T15:06:57+0000
+1177662	Gujranwala	32.16167	74.18831	PPLA2	seat of a second-order administrative division	PK|04	Pakistan|Punjab	2015-03-24T15:06:57+0000
+1045110	Inhambane Province	-23	34.5	ADM1	first-order administrative division	MZ|03	Mozambique|Inhambane	2015-03-24T15:06:58+0000
+1174872	Karachi	24.9056	67.0822	PPLA	seat of a first-order administrative division	PK|05|1174870	Pakistan|Sindh|Karāchi District	2015-03-24T15:06:58+0000
+1184196	Azad Kashmir	33.94718	73.9104	ADM1	first-order administrative division	PK|06	Pakistan|Azad Kashmir	2015-03-24T15:06:58+0000
+1179245	Federally Administered Tribal Areas	33.01455	69.99925	ADM1	first-order administrative division	PK|01	Pakistan|Federally Administered Tribal Areas	2015-03-24T15:06:58+0000
+1220409	Tajikistan	39	71	PCLI	independent political entity	TJ|00		2015-03-24T15:06:58+0000
+1252432	Tāla	26.86667	89.56667	PPL	populated place	BT|00		2015-03-24T15:06:58+0000
+1185252	Khagrachhari	23.10787	91.97007	PPL	populated place	BD|84	Bangladesh|Chittagong	2015-03-24T15:06:58+0000
+1252881	West Bengal	24	88	ADM1	first-order administrative division	IN|28	India|West Bengal	2015-03-24T15:06:59+0000
+1252901	Watāman	22.52748	72.41762	PPL	populated place	IN|09|474	India|Gujarat|Ahmadābād	2015-03-24T15:06:59+0000
+1253143	Viramgām	23.12564	72.05014	PPL	populated place	IN|09|474	India|Gujarat|Ahmadābād	2015-03-24T15:06:59+0000
+1253160	Vindhyāchal	25.16361	82.50438	PPL	populated place	IN|36|199	India|Uttar Pradesh|Mirzāpur	2015-03-24T15:06:59+0000
+1253407	Vārānasi	25.33333	83	ADM2	second-order administrative division	IN|36|197	India|Uttar Pradesh|Vārānasi	2015-03-24T15:06:59+0000
+1253405	Varanasi	25.31668	83.01041	PPL	populated place	IN|36|197	India|Uttar Pradesh|Vārānasi	2015-03-24T15:06:59+0000
+1253573	Vadodara	22.29941	73.20812	PPL	populated place	IN|09|486	India|Gujarat|Vadodara	2015-03-24T15:06:59+0000
+1253747	Unnāo	26.54706	80.48781	PPL	populated place	IN|36|156	India|Uttar Pradesh|Unnāo	2015-03-24T15:06:59+0000
+1253574	Vadodara	22.18	73.12	ADM2	second-order administrative division	IN|09|486	India|Gujarat|Vadodara	2015-03-24T15:06:59+0000
+1253626	Uttar Pradesh	27.25	80.75	ADM1	first-order administrative division	IN|36	India|Uttar Pradesh	2015-03-24T15:07:00+0000
+1253748	Unnāo	26.5	80.5	ADM2	second-order administrative division	IN|36|156	India|Uttar Pradesh|Unnāo	2015-03-24T15:07:00+0000
+1253944	Udumalaippettai	10.58806	77.24779	PPL	populated place	IN|25|633	India|Tamil Nadu|Tiruppur	2015-03-24T15:07:00+0000
+1254242	Tonk	26.16667	75.58333	ADM2	second-order administrative division	IN|24|120	India|Rajasthan|Tonk	2015-03-24T15:07:00+0000
+1255053	Tamil Nadu	11	78.33333	ADM1	first-order administrative division	IN|25	India|Tamil Nadu	2015-03-24T15:07:00+0000
+1255143	Tālcher	20.94927	85.23354	PPL	populated place	IN|21|384	India|Odisha|Angul District	2015-03-24T15:07:00+0000
+1255350	Surendranagar	22.75	71.66667	ADM2	second-order administrative division	IN|09|475	India|Gujarat|Surendranagar	2015-03-24T15:07:00+0000
+1255364	Surat	21.19594	72.83023	PPL	populated place	IN|09|492	India|Gujarat|Sūrat	2015-03-24T15:07:00+0000
+1255365	Sūrat	20.91667	73.05	ADM2	second-order administrative division	IN|09|492	India|Gujarat|Sūrat	2015-03-24T15:07:00+0000
+1256525	Siliguri	26.71004	88.42851	PPL	populated place	IN|28|327	India|West Bengal|Darjiling	2015-03-24T15:07:00+0000
+1256324	Sikandra	26.3668	79.63042	PPL	populated place	IN|36|163	India|Uttar Pradesh|Kanpur Dehat district	2015-03-24T15:07:00+0000
+1256572	Sherghāti	24.55971	84.79344	PPL	populated place	IN|34|236	India|Bihar|Gayā	2015-03-24T15:07:01+0000
+1257086	Sasarām	24.94872	84.01693	PPL	populated place	IN|34|234	India|Bihar|Rohtās	2015-03-24T15:07:01+0000
+1257149	Sarkhej	22.98297	72.50196	PPL	populated place	IN|09|474	India|Gujarat|Ahmadābād	2015-03-24T15:07:01+0000
+1257629	Salem	11.65116	78.15867	PPL	populated place	IN|25|608	India|Tamil Nadu|Salem district	2015-03-24T15:07:01+0000
+1257568	Shāmlālji	23.68811	73.3875	PPL	populated place	IN|09|472	India|Gujarat|Sabar Kāntha	2015-03-24T15:07:01+0000
+1257630	Salem district	11.69	78.29	ADM2	second-order administrative division	IN|25|608	India|Tamil Nadu|Salem district	2015-03-24T15:07:01+0000
+1257922	Sabar Kāntha	23.5	73.25	ADM2	second-order administrative division	IN|09|472	India|Gujarat|Sabar Kāntha	2015-03-24T15:07:01+0000
+1258074	Rohtās	25	83.75	ADM2	second-order administrative division	IN|34|234	India|Bihar|Rohtās	2015-03-24T15:07:01+0000
+1258849	Rājkot	22.33333	70.83333	ADM2	second-order administrative division	IN|09|476	India|Gujarat|Rājkot	2015-03-24T15:07:01+0000
+1258847	Rajkot	22.29161	70.79322	PPL	populated place	IN|09|476	India|Gujarat|Rājkot	2015-03-24T15:07:01+0000
+1258899	Rajasthan	26.58333	73.83333	ADM1	first-order administrative division	IN|24	India|Rajasthan	2015-03-24T15:07:01+0000
+1259012	Rāichūr	16.2047	77.354	PPL	populated place	IN|19|559	India|Karnataka|Raichur district	2015-03-24T15:07:02+0000
+1259013	Raichur district	16.16	76.91	ADM2	second-order administrative division	IN|19|559	India|Karnataka|Raichur district	2015-03-24T15:07:02+0000
+1259223	State of Punjab	30.91667	75.41667	ADM1	first-order administrative division	IN|23	India|Punjab	2015-03-24T15:07:02+0000
+1259168	Purnia	26	87.5	ADM2	second-order administrative division	IN|34|211	India|Bihar|Purnia	2015-03-24T15:07:02+0000
+1260607	Panjim	15.49574	73.82624	PPLA	seat of a first-order administrative division	IN|33|585	India|Goa|North Goa	2015-03-24T15:07:02+0000
+1260086	Patna	25.60222	85.11936	PPLA	seat of a first-order administrative division	IN|34|230	India|Bihar|Patna district	2015-03-24T15:07:02+0000
+1260571	Pānch Mahāls	22.75	73.6	ADM2	second-order administrative division	IN|09|484	India|Gujarat|Pānch Mahāls	2015-03-24T15:07:03+0000
+1260777	Pālanpur	24.17097	72.43821	PPL	populated place	IN|09|469	India|Gujarat|Banās Kāntha	2015-03-24T15:07:03+0000
+1260793	Pālakkodu	12.30696	78.07022	PPL	populated place	IN|25|630	India|Tamil Nadu|Dharmapuri	2015-03-24T15:07:03+0000
+1261050	Olpād	21.33649	72.75161	PPL	populated place	IN|09|492	India|Gujarat|Sūrat	2015-03-24T15:07:03+0000
+1262081	Nālanda	25.25	85.58333	ADM2	second-order administrative division	IN|34|229	India|Bihar|Nālanda	2015-03-24T15:07:03+0000
+1261539	Nelamangala	13.09795	77.39575	PPL	populated place	IN|19|583	India|Karnataka|Bangalore Rural	2015-03-24T15:07:03+0000
+1261481	New Delhi	28.63576	77.22445	PPLC	capital of a political entity	IN|07|094	India|NCT|New Delhi	2015-03-24T15:07:03+0000
+1261653	Navsāri	20.85	72.91667	PPL	populated place	IN|09|490	India|Gujarat|Navsari	2015-03-24T15:07:03+0000
+1262330	Muzaffarpur	26.12259	85.39055	PPL	populated place	IN|34|216	India|Bihar|Muzaffarpur district	2015-03-24T15:07:03+0000
+1262331	Muzaffarpur district	26.16667	85.41667	ADM2	second-order administrative division	IN|34|216	India|Bihar|Muzaffarpur district	2015-03-24T15:07:04+0000
+1262332	Muzaffarnagar	29.47394	77.70414	PPL	populated place	IN|36|133	India|Uttar Pradesh|Muzaffarnagar district	2015-03-24T15:07:04+0000
+1262775	Morvi	22.81731	70.8377	PPL	populated place	IN|09|476	India|Gujarat|Rājkot	2015-03-24T15:07:04+0000
+1262917	Mohaniā	25.16909	83.62004	PPL	populated place	IN|34|233	India|Bihar|Kaimur District	2015-03-24T15:07:04+0000
+1262951	Moga	30.81571	75.17419	PPL	populated place	IN|23|042	India|Punjab|Moga district	2015-03-24T15:07:04+0000
+1263214	Meerut	28.97155	77.71934	PPL	populated place	IN|36|138	India|Uttar Pradesh|Meerut	2015-03-24T15:07:04+0000
+1264390	Mahesāna	23.66667	72.5	ADM2	second-order administrative division	IN|09|471	India|Gujarat|Mahesāna	2015-03-24T15:07:04+0000
+1264389	Mahesāna	23.59864	72.38472	PPL	populated place	IN|09|471	India|Gujarat|Mahesāna	2015-03-24T15:07:04+0000
+1264505	Magdala	21.1	72.75	PPL	populated place	IN|09|492	India|Gujarat|Sūrat	2015-03-24T15:07:04+0000
+1264734	Lucknow District	26.75	81	ADM2	second-order administrative division	IN|36|157	India|Uttar Pradesh|Lucknow District	2015-03-24T15:07:05+0000
+1264527	Chennai	13.08784	80.27847	PPLA	seat of a first-order administrative division	IN|25|603	India|Tamil Nadu|Chennai	2015-03-24T15:07:05+0000
+1265492	Kurnool district	15.58333	78.33333	ADM2	second-order administrative division	IN|02|552	India|Andhra Pradesh|Kurnool district	2015-03-24T15:07:05+0000
+1264733	Lucknow	26.83928	80.92313	PPLA	seat of a first-order administrative division	IN|36|157	India|Uttar Pradesh|Lucknow District	2015-03-24T15:07:05+0000
+1266305	Kolār	13.13671	78.12917	PPL	populated place	IN|19|581	India|Karnataka|Kolar district	2015-03-24T15:07:05+0000
+1266306	Kolar district	13.13	78.23	ADM2	second-order administrative division	IN|19|581	India|Karnataka|Kolar district	2015-03-24T15:07:05+0000
+1266810	Kheda	22.75	72.83333	ADM2	second-order administrative division	IN|09|483	India|Gujarat|Kheda	2015-03-24T15:07:05+0000
+1267091	Khambhāliya	22.20685	69.65031	PPL	populated place	IN|09|477	India|Gujarat|Jāmnagar	2015-03-24T15:07:05+0000
+1267997	Kānpur	26.5	80	ADM2	second-order administrative division	IN|36|164	India|Uttar Pradesh|Kānpur	2015-03-24T15:07:05+0000
+1267190	Khāga	25.77165	81.10143	PPL	populated place	IN|36|172	India|Uttar Pradesh|Fatehpur	2015-03-24T15:07:06+0000
+1268773	Jūnāgadh	21.51966	70.45981	PPL	populated place	IN|09|479	India|Gujarat|Jūnāgadh	2015-03-24T15:07:06+0000
+1269028	Jhālāwār	24.41667	76.25	ADM2	second-order administrative division	IN|24|129	India|Rajasthan|Jhālāwār	2015-03-24T15:07:06+0000
+1268774	Jūnāgadh	21.25	70.33333	ADM2	second-order administrative division	IN|09|479	India|Gujarat|Jūnāgadh	2015-03-24T15:07:06+0000
+1269065	Jetpur	21.75482	70.62347	PPL	populated place	IN|09|476	India|Gujarat|Rājkot	2015-03-24T15:07:06+0000
+1269317	Jāmnagar	22.47292	70.06673	PPL	populated place	IN|09|477	India|Gujarat|Jāmnagar	2015-03-24T15:07:06+0000
+1269318	Jāmnagar	22.25	70	ADM2	second-order administrative division	IN|09|477	India|Gujarat|Jāmnagar	2015-03-24T15:07:06+0000
+1269350	Jambusar	22.05236	72.80074	PPL	populated place	IN|09|488	India|Gujarat|Bharūch	2015-03-24T15:07:06+0000
+1269934	Hosūr	12.73647	77.83264	PPL	populated place	IN|25|631	India|Tamil Nadu|Krishnagiri	2015-03-24T15:07:07+0000
+1269750	India	22	79	PCLI	independent political entity	IN|00		2015-03-24T15:07:07+0000
+1269743	Indore	22.71792	75.8333	PPL	populated place	IN|35|439	India|Madhya Pradesh|Indore district	2015-03-24T15:07:07+0000
+1270165	Hazārībāg	24	85.25	ADM2	second-order administrative division	IN|38|360	India|Jharkhand|Hazārībāg	2015-03-24T15:07:07+0000
+1270210	Hatiā	23.28684	85.30977	PPL	populated place	IN|38|364	India|Jharkhand|Rānchī	2015-03-24T15:07:07+0000
+1270396	Howrah	22.57688	88.31857	PPL	populated place	IN|28|341	India|West Bengal|Hāora	2015-03-24T15:07:07+0000
+1269633	Jabalpur	23.16697	79.95006	PPL	populated place	IN|35|451	India|Madhya Pradesh|Jabalpur district	2015-03-24T15:07:07+0000
+1270437	Handiā	25.36344	82.18772	PPL	populated place	IN|36|175	India|Uttar Pradesh|Allahābād	2015-03-24T15:07:07+0000
+1270466	Halvad	23.01516	71.18029	PPL	populated place	IN|09|475	India|Gujarat|Surendranagar	2015-03-24T15:07:07+0000
+1270474	Hālol	22.50321	73.47242	PPL	populated place	IN|09|484	India|Gujarat|Pānch Mahāls	2015-03-24T15:07:07+0000
+1270908	Gorhar	24.13154	85.69114	PPL	populated place	IN|38|348	India|Jharkhand|Kodarma	2015-03-24T15:07:08+0000
+1271107	Godhra	22.77547	73.61488	PPL	populated place	IN|09|484	India|Gujarat|Pānch Mahāls	2015-03-24T15:07:08+0000
+1270930	Gorakhpur	26.91667	83.25	ADM2	second-order administrative division	IN|36|188	India|Uttar Pradesh|Gorakhpur	2015-03-24T15:07:08+0000
+1270974	Gooty	15.11836	77.63776	PPL	populated place	IN|02|553	India|Andhra Pradesh|Anantapur District	2015-03-24T15:07:08+0000
+1270927	Gorakhpur	26.75479	83.37235	PPL	populated place	IN|36|188	India|Uttar Pradesh|Gorakhpur	2015-03-24T15:07:08+0000
+1271440	Gayā	24.75	85	ADM2	second-order administrative division	IN|34|236	India|Bihar|Gayā	2015-03-24T15:07:08+0000
+1271308	Ghaziabad	28.66249	77.43777	PPL	populated place	IN|36|140	India|Uttar Pradesh|Ghāziābād	2015-03-24T15:07:08+0000
+1271631	Gangtok	27.32574	88.61216	PPLA	seat of a first-order administrative division	IN|29|244	India|Sikkim|East District	2015-03-24T15:07:08+0000
+1271715	Gandhinagar	23.21667	72.68333	PPLA	seat of a first-order administrative division	IN|09|473	India|Gujarat|Gāndhīnagar	2015-03-24T15:07:09+0000
+1272175	Durgāpur	23.49956	87.32155	PPL	populated place	IN|28|335	India|West Bengal|Barddhamān	2015-03-24T15:07:09+0000
+1271912	Fatehpur	25.93036	80.8139	PPL	populated place	IN|36|172	India|Uttar Pradesh|Fatehpur	2015-03-24T15:07:09+0000
+1271920	Fatehpur	25.75	80.75	ADM2	second-order administrative division	IN|36|172	India|Uttar Pradesh|Fatehpur	2015-03-24T15:07:09+0000
+1272699	Dhrol	22.567	70.41769	PPL	populated place	IN|09|477	India|Gujarat|Jāmnagar	2015-03-24T15:07:09+0000
+1272701	Dhrāngadhra	22.99167	71.46793	PPL	populated place	IN|09|475	India|Gujarat|Surendranagar	2015-03-24T15:07:09+0000
+1272733	Dholka	22.72732	72.44128	PPL	populated place	IN|09|474	India|Gujarat|Ahmadābād	2015-03-24T15:07:09+0000
+1272848	Dharmapuri	12.13	78.24	ADM2	second-order administrative division	IN|25|630	India|Tamil Nadu|Dharmapuri	2015-03-24T15:07:09+0000
+1273196	Deoria	26.66667	83.75	ADM2	second-order administrative division	IN|36|190	India|Uttar Pradesh|Deoria	2015-03-24T15:07:10+0000
+1273294	Delhi	28.65381	77.22897	PPLA	seat of a first-order administrative division	IN|07|091	India|NCT|North Delhi	2015-03-24T15:07:10+0000
+1272980	Dhānbād	23.75	86.41667	ADM2	second-order administrative division	IN|38|354	India|Jharkhand|Dhānbād	2015-03-24T15:07:10+0000
+1273293	NCT	28.6667	77.1	ADM1	first-order administrative division	IN|07	India|NCT	2015-03-24T15:07:10+0000
+1273309	Dehri	24.90504	84.18289	PPL	populated place	IN|34|234	India|Bihar|Rohtās	2015-03-24T15:07:10+0000
+1273665	Dākor	22.75268	73.14967	PPL	populated place	IN|09|483	India|Gujarat|Kheda	2015-03-24T15:07:10+0000
+1273492	Darbhanga district	26	86	ADM2	second-order administrative division	IN|34|215	India|Bihar|Darbhanga district	2015-03-24T15:07:10+0000
+1273703	Dahej	21.7119	72.59113	PPL	populated place	IN|09|488	India|Gujarat|Bharūch	2015-03-24T15:07:10+0000
+1273800	Kadapa	14.4775	78.82353	PPL	populated place	IN|02|551	India|Andhra Pradesh|Kadapa District	2015-03-24T15:07:11+0000
+1273801	Kadapa District	14.41667	78.75	ADM2	second-order administrative division	IN|02|551	India|Andhra Pradesh|Kadapa District	2015-03-24T15:07:11+0000
+1273866	Coimbatore district	10.8	77.09	ADM2	second-order administrative division	IN|25|632	India|Tamil Nadu|Coimbatore district	2015-03-24T15:07:11+0000
+1273724	Dadri	28.55315	77.55343	PPL	populated place	IN|36|141	India|Uttar Pradesh|Gautam Buddha Nagar	2015-03-24T15:07:11+0000
+1273894	Chūru	28.5	74.5	ADM2	second-order administrative division	IN|24|102	India|Rajasthan|Chūru	2015-03-24T15:07:11+0000
+1275004	Kolkata	22.56263	88.36304	PPLA	seat of a first-order administrative division	IN|28|342	India|West Bengal|Kolkata	2015-03-24T15:07:11+0000
+1275540	Beed District	18.83333	75.75	ADM2	second-order administrative division	IN|16|523	India|Maharashtra|Beed District	2015-03-24T15:07:11+0000
+1275339	Mumbai	19.07283	72.88261	PPLA	seat of a first-order administrative division	IN|16|518	India|Maharashtra|Mumbai City District	2015-03-24T15:07:11+0000
+1275715	Bihar	25.75	85.75	ADM1	first-order administrative division	IN|34	India|Bihar	2015-03-24T15:07:11+0000
+1275716	Bihār Sharīf	25.19729	85.52374	PPL	populated place	IN|34|229	India|Bihar|Nālanda	2015-03-24T15:07:12+0000
+1275841	Bhopal	23.25469	77.40289	PPLA	seat of a first-order administrative division	IN|35|444	India|Madhya Pradesh|Bhopāl	2015-03-24T15:07:12+0000
+1275817	Bhubaneswar	20.27241	85.83385	PPLA	seat of a first-order administrative division	IN|21|386	India|Odisha|Khordha	2015-03-24T15:07:12+0000
+1275971	Bhilai	21.21667	81.43333	PPL	populated place	IN|37|409	India|Chhattisgarh|Durg	2015-03-24T15:07:12+0000
+1276101	Bharūch	21.75	73	ADM2	second-order administrative division	IN|09|488	India|Gujarat|Bharūch	2015-03-24T15:07:12+0000
+1277013	Bareilly	28.34702	79.42193	PPL	populated place	IN|36|150	India|Uttar Pradesh|Bareilly district	2015-03-24T15:07:12+0000
+1277148	Bārāchati	24.50245	85.0072	PPL	populated place	IN|34|236	India|Bihar|Gayā	2015-03-24T15:07:12+0000
+1277332	Bangalore Rural	13.1	77.23	ADM2	second-order administrative division	IN|19|583	India|Karnataka|Bangalore Rural	2015-03-24T15:07:13+0000
+1277331	Bangalore Urban	13	77.58333	ADM2	second-order administrative division	IN|19|572	India|Karnataka|Bangalore Urban	2015-03-24T15:07:13+0000
+1277417	Banās Kāntha	24.25	72.5	ADM2	second-order administrative division	IN|09|469	India|Gujarat|Banās Kāntha	2015-03-24T15:07:13+0000
+1278150	Aurangābād	24.75	84.5	ADM2	second-order administrative division	IN|34|235	India|Bihar|Aurangābād	2015-03-24T15:07:13+0000
+1278148	Aurangābād	24.75389	84.37407	PPL	populated place	IN|34|235	India|Bihar|Aurangābād	2015-03-24T15:07:13+0000
+1277558	Ballabgarh	28.3355	77.32747	PPL	populated place	IN|10|088	India|Haryana|Faridabad District	2015-03-24T15:07:13+0000
+1278994	Allahabad	25.44894	81.83329	PPL	populated place	IN|36|175	India|Uttar Pradesh|Allahābād	2015-03-24T15:07:13+0000
+1278995	Allahābād	25.42012	81.88385	ADM2	second-order administrative division	IN|36|175	India|Uttar Pradesh|Allahābād	2015-03-24T15:07:14+0000
+1278673	Anantapur District	14.55	77.41667	ADM2	second-order administrative division	IN|02|553	India|Andhra Pradesh|Anantapur District	2015-03-24T15:07:14+0000
+1279234	Ahmadābād	23.03	72.58	ADM2	second-order administrative division	IN|09|474	India|Gujarat|Ahmadābād	2015-03-24T15:07:14+0000
+143105	Aras River	40.01777	48.4532	STM	stream			2015-03-24T15:07:14+0000
+1337279	Chhukha Dzongkhag	27	89.55	ADM1	first-order administrative division	BT|06	Bhutan|Chhukha	2015-03-24T15:07:14+0000
+147284	Sabirabad Rayon	39.91667	48.66667	ADM1	first-order administrative division	AZ|46	Azerbaijan|Sabirabad	2015-03-24T15:07:14+0000
+146879	Beylagan Rayon	39.75	47.66667	ADM1	first-order administrative division	AZ|12	Azerbaijan|Beyləqan	2015-03-24T15:07:14+0000
+147287	Saatly Rayon	39.83333	48.41667	ADM1	first-order administrative division	AZ|45	Azerbaijan|Saatlı	2015-03-24T15:07:15+0000
+147429	Nakhichivan	39.20889	45.41222	PPLA	seat of a first-order administrative division	AZ|35	Azerbaijan|Nakhichevan	2015-03-24T15:07:15+0000
+147983	Imishli Rayon	39.83333	48.08333	ADM1	first-order administrative division	AZ|24	Azerbaijan|İmişli	2015-03-24T15:07:15+0000
+147997	Sharur Rayon	39.5	45.08333	ADM2	second-order administrative division	AZ|35|147997	Azerbaijan|Nakhichevan|Sharur Rayon	2015-03-24T15:07:15+0000
+148330	Pervoye Maya	39.74667	47.95889	PPL	populated place	AZ|24	Azerbaijan|İmişli	2015-03-24T15:07:15+0000
+148615	Aghjabadi Rayon	40	47.41667	ADM1	first-order administrative division	AZ|02	Azerbaijan|Ağcabǝdi	2015-03-24T15:07:15+0000
+149070	Utete	-7.98598	38.75795	PPL	populated place	TZ|02	Tanzania|Pwani	2015-03-24T15:07:16+0000
+149358	Ubungo	-6.78333	39.2	PPL	populated place	TZ|23	Tanzania|Dar es Salaam	2015-03-24T15:07:16+0000
+1489530	Tobol'sk	58.19807	68.25457	PPL	populated place	RU|78	Russia|Tjumen	2015-03-24T15:07:16+0000
+149659	Tabora Airport	-5.08333	32.83333	AIRP	airport	TZ|17	Tanzania|Tabora	2015-03-24T15:07:16+0000
+149776	Songo Songo Island	-8.52517	39.50357	ISL	island	TZ|07	Tanzania|Lindi	2015-03-24T15:07:16+0000
+149590	Tanzania	-6	35	PCLI	independent political entity	TZ|00		2015-03-24T15:07:16+0000
+150487	Rufiji District	-7.95743	38.72662	ADM2	second-order administrative division	TZ|02|150487	Tanzania|Pwani|Rufiji District	2015-03-24T15:07:16+0000
+1504682	Kansk	56.20167	95.7175	PPL	populated place	RU|91	Russia|Krasnoyarskiy	2015-03-24T15:07:16+0000
+149791	Samanga	-8.38148	39.28117	PPL	populated place	TZ|07	Tanzania|Lindi	2015-03-24T15:07:16+0000
+1512534	To’rtko’l Tumani	41.6242	61.72683	ADM2	second-order administrative division	UZ|09|1512534	Uzbekistan|Karakalpakstan|To’rtko’l Tumani	2015-03-24T15:07:17+0000
+1514037	Ellikqala Tumani	42.35583	61.76375	ADM2	second-order administrative division	UZ|09|1514037	Uzbekistan|Karakalpakstan|Ellikqala Tumani	2015-03-24T15:07:17+0000
+1512698	Taxtako’pir Tumani	42.98175	61.07328	ADM2	second-order administrative division	UZ|09|1512698	Uzbekistan|Karakalpakstan|Taxtako’pir Tumani	2015-03-24T15:07:17+0000
+1527297	Talas	42.33333	72	ADM1	first-order administrative division	KG|06	Kyrgyzstan|Talas	2015-03-24T15:07:17+0000
+1514386	Beruniy Tumani	42.16667	61	ADM2	second-order administrative division	UZ|09|1514386	Uzbekistan|Karakalpakstan|Beruniy Tumani	2015-03-24T15:07:17+0000
+1527590	Naryn	41.43333	75.96667	ADM1	first-order administrative division	KG|04	Kyrgyzstan|Naryn	2015-03-24T15:07:17+0000
+1276100	Bharūch	21.69482	72.9805	PPL	populated place	IN|09|488	India|Gujarat|Bharūch	2015-03-24T15:07:17+0000
+1527747	Kyrgyzstan	41.5	75	PCLI	independent political entity	KG|00		2015-03-24T15:07:18+0000
+1538258	Ohangaron Shahri	40.90639	69.63833	ADM2	second-order administrative division	UZ|14|1538258	Uzbekistan|Toshkent|Ohangaron Shahri	2015-03-24T15:07:18+0000
+1562822	Vietnam	16.16667	107.83333	PCLI	independent political entity	VN|00		2015-03-24T15:07:18+0000
+1528260	Issyk-Kul’skaya Oblast’	42	78	ADM1	first-order administrative division	KG|07	Kyrgyzstan|Ysyk-Köl	2015-03-24T15:07:18+0000
+157253	Kinondoni District	-6.71666	39.14436	ADM2	second-order administrative division	TZ|23|157253	Tanzania|Dar es Salaam|Kinondoni Municipal Council	2015-03-24T15:07:18+0000
+157377	Kilwa Masoko	-8.9251	39.5131	PPL	populated place	TZ|07	Tanzania|Lindi	2015-03-24T15:07:18+0000
+157379	Kilwa	-8.74724	39.41251	PPL	populated place	TZ|07|157383	Tanzania|Lindi|Kilwa District	2015-03-24T15:07:18+0000
+157383	Kilwa District	-9.03945	39.04456	ADM2	second-order administrative division	TZ|07|157383	Tanzania|Lindi|Kilwa District	2015-03-24T15:07:18+0000
+157977	Kibiti	-7.72178	38.93749	PPL	populated place	TZ|02	Tanzania|Pwani	2015-03-24T15:07:18+0000
+159239	Ilala District	-6.91805	39.16254	ADM2	second-order administrative division	TZ|23|159239	Tanzania|Dar es Salaam|Ilala District	2015-03-24T15:07:19+0000
+160263	Dar es Salaam	-6.82349	39.26951	PPLA	seat of a first-order administrative division	TZ|23	Tanzania|Dar es Salaam	2015-03-24T15:07:19+0000
+159242	Ikwiriri	-7.95618	38.97164	PPL	populated place	TZ|02	Tanzania|Pwani	2015-03-24T15:07:19+0000
+160260	Dar es Salaam Region	-6.83522	39.19597	ADM1	first-order administrative division	TZ|23	Tanzania|Dar es Salaam	2015-03-24T15:07:19+0000
+1637366	Central Lombok Regency	-8.75	116.33333	ADM2	second-order administrative division	ID|17|5202	Indonesia|West Nusa Tenggara|Central Lombok Regency	2015-03-24T15:07:19+0000
+1652080	Muang Xiengkhor	20.81667	104.15	ADM2	second-order administrative division	LA|03|1652080	Laos|Houaphan|Muang Xiengkhor	2015-03-24T15:07:19+0000
+1694584	Pasig	14.58333	121.08333	ADM2	second-order administrative division	PH|NCR|L8	Philippines|Metro Manila|Pasig	2015-03-24T15:07:19+0000
+178147	Westlands	-1.26667	36.8	PPLX	section of populated place	KE|05	Kenya|Nairobi Area	2015-03-24T15:07:19+0000
+1786217	Yongzhou	26.42389	111.61306	PPL	populated place	CN|11	China|Hunan	2015-03-24T15:07:19+0000
+178837	Uasin Gishu	0.5	35.31667	ADM1	first-order administrative division	KE|52	Kenya|Uasin Gishu	2015-03-24T15:07:19+0000
+179068	Trans Nzoia	1.045	34.979	ADM1	first-order administrative division	KE|50	Kenya|Trans Nzoia	2015-03-24T15:07:20+0000
+179328	Thika District	-1.08333	37.08333	ADM2	second-order administrative division	KE|22|179328	Kenya|Kiambu|Thika District	2015-03-24T15:07:20+0000
+1804161	Lengshuitan Qu	26.45	111.58333	ADM3	third-order administrative division	CN|11|1804161	China|Hunan|Lengshuitan Qu	2015-03-24T15:07:20+0000
+179330	Thika	-1.03326	37.06933	PPL	populated place	KE|05	Kenya|Nairobi Area	2015-03-24T15:07:20+0000
+180782	Samburu	1.33333	37.11667	ADM1	first-order administrative division	KE|45	Kenya|Samburu	2015-03-24T15:07:20+0000
+185578	Murang'A	-0.684	36.994	ADM1	first-order administrative division	KE|38	Kenya|Murang'A	2015-03-24T15:07:20+0000
+190106	Kwale	-4.13333	39.2	ADM1	first-order administrative division	KE|28	Kenya|Kwale	2015-03-24T15:07:20+0000
+186298	Mombasa	-4.02	39.66667	ADM1	first-order administrative division	KE|37	Kenya|Mombasa	2015-03-24T15:07:20+0000
+191421	Mount Kenya	-0.15	37.3	MT	mountain	KE|00		2015-03-24T15:07:20+0000
+1920293	Baozhu	23.11331	111.6103	PPLA4	seat of a fourth-order administrative division	CN|30	China|Guangdong	2015-03-24T15:07:21+0000
+192064	Kilifi	-3.563	39.644	ADM1	first-order administrative division	KE|23	Kenya|Kilifi	2015-03-24T15:07:21+0000
+191037	Kitui	-1.835	38.451	ADM1	first-order administrative division	KE|27	Kenya|Kitui	2015-03-24T15:07:21+0000
+192709	Kiambu	-1.09	36.699	ADM1	first-order administrative division	KE|22	Kenya|Kiambu	2015-03-24T15:07:21+0000
+196228	Isiolo	0.98333	38.53333	ADM1	first-order administrative division	KE|18	Kenya|Isiolo	2015-03-24T15:07:21+0000
+195271	Kakamega	0.334	34.797	ADM1	first-order administrative division	KE|20	Kenya|Kakamega	2015-03-24T15:07:21+0000
+197744	Garissa	-0.172	40.041	ADM1	first-order administrative division	KE|16	Kenya|Garissa	2015-03-24T15:07:21+0000
+198474	Embu	-0.425	37.531	ADM1	first-order administrative division	KE|15	Kenya|Embu	2015-03-24T15:07:21+0000
+199247	Coast Province	-3	39.5	ADM1H	historical first-order administrative division	KE|02	Kenya|KE.02	2015-03-24T15:07:21+0000
+2017370	Russia	60	100	PCLI	independent political entity	RU|00		2015-03-24T15:07:22+0000
+200066	Bungoma	0.66	34.639	ADM1	first-order administrative division	KE|12	Kenya|Bungoma	2015-03-24T15:07:22+0000
+2083819	Warangoi	-4.48333	152.15	PPL	populated place	PG|10	Papua New Guinea|East New Britain	2015-03-24T15:07:22+0000
+2019528	Nakhodka	42.81384	132.87348	PPL	populated place	RU|59	Russia|Primorskiy	2015-03-24T15:07:22+0000
+2085422	Tingau Number 1	-2.10482	147.08844	PPL	populated place	PG|13	Papua New Guinea|Manus	2015-03-24T15:07:22+0000
+2083546	West New Britain Province	-5.87833	149.82605	ADM1	first-order administrative division	PG|17	Papua New Guinea|West New Britain	2015-03-24T15:07:22+0000
+2087633	Rigo	-9.75	147.83333	ADM2	second-order administrative division	PG|01|2087633	Papua New Guinea|Central Province|Rigo	2015-03-24T15:07:22+0000
+2087893	Rabaul	-4.18333	152.16667	ADM2	second-order administrative division	PG|10|2087893	Papua New Guinea|East New Britain|Rabaul	2015-03-24T15:07:23+0000
+2088163	Popondetta	-8.75931	148.24095	PPLA	seat of a first-order administrative division	PG|04	Papua New Guinea|Northern Province	2015-03-24T15:07:23+0000
+2088161	Popondetta District	-9	148.33333	ADMD	administrative division	PG|04	Papua New Guinea|Northern Province	2015-03-24T15:07:23+0000
+2088179	Pongani	-9.05097	148.56606	PPL	populated place	PG|04	Papua New Guinea|Northern Province	2015-03-24T15:07:23+0000
+2088628	Papua New Guinea	-6	147	PCLI	independent political entity	PG|00		2015-03-24T15:07:23+0000
+2089300	Obaha	-9.95	148.1	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:23+0000
+2089478	Northern Province	-9	148.5	ADM1	first-order administrative division	PG|04	Papua New Guinea|Northern Province	2015-03-24T15:07:23+0000
+2090468	Morobe Province	-7.0106	146.9672	ADM1	first-order administrative division	PG|14	Papua New Guinea|Morobe	2015-03-24T15:07:23+0000
+2090288	Mundrau	-2.0362	147.02616	PPL	populated place	PG|13	Papua New Guinea|Manus	2015-03-24T15:07:23+0000
+2090950	Menyamya	-7.25	146.16667	ADM2	second-order administrative division	PG|14|2090950	Papua New Guinea|Morobe|Menyamya	2015-03-24T15:07:24+0000
+2090910	Metawari	-2.15598	147.0511	PPL	populated place	PG|13	Papua New Guinea|Manus	2015-03-24T15:07:24+0000
+2091232	Matairuka	-9.88322	147.78997	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:24+0000
+2091495	Manus Province	-2	147	ADM1	first-order administrative division	PG|13	Papua New Guinea|Manus	2015-03-24T15:07:24+0000
+2091497	Manus District	-2	147	ADMD	administrative division	PG|13	Papua New Guinea|Manus	2015-03-24T15:07:24+0000
+2092651	Laloki	-9.38566	147.29764	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:24+0000
+2091756	Malalaua	-8.06667	146.16667	PPL	populated place	PG|02	Papua New Guinea|Gulf	2015-03-24T15:07:24+0000
+2093427	Korere	-4.16684	152.18657	PPL	populated place	PG|10	Papua New Guinea|East New Britain	2015-03-24T15:07:24+0000
+2093683	Kokopo	-4.4	152.28333	ADM2	second-order administrative division	PG|10|2093683	Papua New Guinea|East New Britain|Kokopo	2015-03-24T15:07:24+0000
+2093727	Koimumu	-5.49801	150.5796	PPL	populated place	PG|17	Papua New Guinea|West New Britain	2015-03-24T15:07:25+0000
+2093967	Kimbe	-5.55021	150.14285	PPLA	seat of a first-order administrative division	PG|17	Papua New Guinea|West New Britain	2015-03-24T15:07:25+0000
+2095012	Kairuku District	-8.75	146.75	ADMD	administrative division	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:25+0000
+2096037	Hoskins	-5.45437	150.40939	PPL	populated place	PG|17	Papua New Guinea|West New Britain	2015-03-24T15:07:25+0000
+2096633	Gulf Province	-7.7246	145.08545	ADM1	first-order administrative division	PG|02	Papua New Guinea|Gulf	2015-03-24T15:07:25+0000
+2099613	Bereina	-8.62702	146.54792	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:25+0000
+2097853	East New Britain Province	-4.61283	151.88775	ADM1	first-order administrative division	PG|10	Papua New Guinea|East New Britain	2015-03-24T15:07:25+0000
+2101038	Alepa	-9.96426	147.93899	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:25+0000
+2100536	Aropokina	-8.76667	146.65	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:25+0000
+2100468	Aseki	-7.3517	146.19241	PPL	populated place	PG|14	Papua New Guinea|Morobe	2015-03-24T15:07:26+0000
+2101332	Afore	-9.12799	148.3907	PPL	populated place	PG|04	Papua New Guinea|Northern Province	2015-03-24T15:07:26+0000
+2133763	Central Province	-10	148	ADM1	first-order administrative division	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:26+0000
+2133105	Kupiano	-10.07521	148.18442	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:07:26+0000
+2134008	Abau	-10.08333	148.91667	ADM2	second-order administrative division	PG|01|2134008	Papua New Guinea|Central Province|Abau	2015-03-24T15:07:26+0000
+224995	‘Asa Gayla	12.19558	42.64121	WLL	well	DJ|05	Djibouti|Tadjourah	2015-03-24T15:07:26+0000
+2251492	Gossas	14.5	-16	ADM2	second-order administrative division	SN|09|2251492	Senegal|Fatick|Gossas	2015-03-24T15:07:26+0000
+2288115	Grand-Bassam	5.2118	-3.73884	PPLA2	seat of a second-order administrative division	CI|89	Ivory Coast|Sud-Comoé	2015-03-24T15:07:26+0000
+2290462	Danané	7.25957	-8.15498	PPL	populated place	CI|78	Ivory Coast|Dix-Huit Montagnes	2015-03-24T15:07:27+0000
+2291136	Bondoukou	8.0402	-2.80003	PPLA	seat of a first-order administrative division	CI|92	Ivory Coast|Zanzan	2015-03-24T15:07:27+0000
+2294076	Western Region	5.5	-2.5	ADM1	first-order administrative division	GH|09	Ghana|Western	2015-03-24T15:07:27+0000
+2287781	Ivory Coast	8	-5.5	PCLI	independent political entity	CI|00		2015-03-24T15:07:27+0000
+2294234	Volta Region	7	0.5	ADM1	first-order administrative division	GH|08	Ghana|Volta	2015-03-24T15:07:27+0000
+2294086	Wenchi	7.73916	-2.10456	PPL	populated place	GH|03	Ghana|Brong-Ahafo	2015-03-24T15:07:27+0000
+2294286	Upper West Region	10.33333	-2.25	ADM1	first-order administrative division	GH|11	Ghana|Upper West	2015-03-24T15:07:27+0000
+2294236	Lake Volta	7.40057	0.19472	RSV	reservoir(s)	GH|00		2015-03-24T15:07:27+0000
+2294291	Upper East Region	10.75	-0.75	ADM1	first-order administrative division	GH|10	Ghana|Upper East	2015-03-24T15:07:28+0000
+2294700	Tema	5.6698	-0.01657	PPL	populated place	GH|01	Ghana|Greater Accra	2015-03-24T15:07:28+0000
+2295888	Pong-Tamale	9.68959	-0.82905	PPL	populated place	GH|06	Ghana|Northern	2015-03-24T15:07:28+0000
+2296181	Paga	10.99327	-1.1134	PPL	populated place	GH|10	Ghana|Upper East	2015-03-24T15:07:28+0000
+2296406	Ohawu	6.13681	0.89855	PPL	populated place	GH|00		2015-03-24T15:07:28+0000
+2296969	Nungua	5.60105	-0.07713	PPLX	section of populated place	GH|01	Ghana|Greater Accra	2015-03-24T15:07:28+0000
+2297169	Northern Region	9.5	-1	ADM1	first-order administrative division	GH|06	Ghana|Northern	2015-03-24T15:07:28+0000
+2298724	Kwadaso	6.69404	-1.64603	PPL	populated place	GH|00		2015-03-24T15:07:28+0000
+2299144	Kpong	6.15861	0.06261	PPL	populated place	GH|00		2015-03-24T15:07:28+0000
+2300569	Greater Accra Region	5.75	0	ADM1	first-order administrative division	GH|01	Ghana|Greater Accra	2015-03-24T15:07:28+0000
+2299625	Kintampo	8.05627	-1.73058	PPL	populated place	GH|03	Ghana|Brong-Ahafo	2015-03-24T15:07:29+0000
+2301217	Ejura	7.38558	-1.35617	PPL	populated place	GH|02	Ghana|Ashanti	2015-03-24T15:07:29+0000
+2300660	Ghana	8.1	-1.2	PCLI	independent political entity	GH|00		2015-03-24T15:07:29+0000
+2302002	Damongo	9.08337	-1.81819	PPL	populated place	GH|00		2015-03-24T15:07:29+0000
+2301360	Eastern Region	6.5	-0.5	ADM1	first-order administrative division	GH|05	Ghana|Eastern	2015-03-24T15:07:29+0000
+2302547	Brong-Ahafo	7.75	-1.5	ADM1	first-order administrative division	GH|03	Ghana|Brong-Ahafo	2015-03-24T15:07:29+0000
+2302353	Central Region	5.5	-1	ADM1	first-order administrative division	GH|04	Ghana|Central	2015-03-24T15:07:29+0000
+2304028	Asuansi	5.30227	-1.23645	PPL	populated place	GH|00		2015-03-24T15:07:29+0000
+2303529	Babile	10.52973	-2.83774	PPL	populated place	GH|00		2015-03-24T15:07:29+0000
+2304116	Ashanti Region	6.75	-1.5	ADM1	first-order administrative division	GH|02	Ghana|Ashanti	2015-03-24T15:07:30+0000
+2304693	Amrahia	5.76972	-0.14197	PPL	populated place	GH|01	Ghana|Greater Accra	2015-03-24T15:07:30+0000
+232422	Kampala	0.31628	32.58219	PPLC	capital of a political entity	UG|C|37	Uganda|Central Region|Kampala	2015-03-24T15:07:30+0000
+2305884	Adidome	6.06568	0.50712	PPL	populated place	GH|00		2015-03-24T15:07:30+0000
+2357048	Ouagadougou	12.36566	-1.53388	PPLC	capital of a political entity	BF|03|53	Burkina Faso|Centre|Kadiogo Province	2015-03-24T15:07:30+0000
+234411	Bukedea District	1.36667	34.13333	ADM2	second-order administrative division	UG|E|C3	Uganda|Eastern Region|Bukedea District	2015-03-24T15:07:30+0000
+2362079	Boudtenga	12.48639	-1.26583	PPL	populated place	BF|03|53	Burkina Faso|Centre|Kadiogo Province	2015-03-24T15:07:30+0000
+2378080	Mauritania	20.25	-10.5	PCLI	independent political entity	MR|00		2015-03-24T15:07:31+0000
+2372248	Guinea-Bissau	12	-15	PCLI	independent political entity	GW|00		2015-03-24T15:07:31+0000
+2361809	Burkina Faso	12.5	-1.66667	PCLI	independent political entity	BF|00		2015-03-24T15:07:31+0000
+2426370	Oum Hadjer	13.2954	19.6966	PPL	populated place	TD|01	Chad|Batha	2015-03-24T15:07:31+0000
+2427123	N'Djamena	12.10672	15.0444	PPLC	capital of a political entity	TD|15	Chad|Chari-Baguirmi	2015-03-24T15:07:31+0000
+2426906	Ngoura	12.8875	16.44972	PPL	populated place	TD|18	Chad|Hadjer-Lamis	2015-03-24T15:07:31+0000
+2427637	Mongo	12.18441	18.69303	PPLA	seat of a first-order administrative division	TD|05	Chad|Guéra	2015-03-24T15:07:32+0000
+2428450	Mangalmé	12.3546	19.6139	PPL	populated place	TD|05	Chad|Guéra	2015-03-24T15:07:32+0000
+2428480	Mandelia	11.7269	15.24774	PPL	populated place	TD|15	Chad|Chari-Baguirmi	2015-03-24T15:07:32+0000
+2428132	Mayo-Kebbi Est	10	15.83	ADM1	first-order administrative division	TD|16	Chad|Mayo-Kebbi Est	2015-03-24T15:07:32+0000
+2430781	Karal	12.83701	14.78825	PPL	populated place	TD|15	Chad|Chari-Baguirmi	2015-03-24T15:07:32+0000
+2431555	Guera Region	11.5	18.5	ADM1	first-order administrative division	TD|05	Chad|Guéra	2015-03-24T15:07:33+0000
+2432451	Gadang-Haddad-Dandi	10.3689	17.0273	PPL	populated place	TD|15	Chad|Chari-Baguirmi	2015-03-24T15:07:33+0000
+2431573	Guelendeng	10.91762	15.55011	PPL	populated place	TD|16	Chad|Mayo-Kebbi Est	2015-03-24T15:07:33+0000
+2433630	Djermaya	12.40071	15.05436	PPL	populated place	TD|18	Chad|Hadjer-Lamis	2015-03-24T15:07:33+0000
+2434985	Bokoro	12.37813	17.05876	PPL	populated place	TD|18	Chad|Hadjer-Lamis	2015-03-24T15:07:33+0000
+2434478	Chari-Baguirmi Region	11.34	16.25	ADM1	first-order administrative division	TD|15	Chad|Chari-Baguirmi	2015-03-24T15:07:34+0000
+2435899	Batha Region	14	19	ADM1	first-order administrative division	TD|01	Chad|Batha	2015-03-24T15:07:34+0000
+2435124	Bitkine	11.9801	18.2138	PPL	populated place	TD|05	Chad|Guéra	2015-03-24T15:07:34+0000
+2434508	Chad	15	19	PCLI	independent political entity	TD|00		2015-03-24T15:07:34+0000
+2440482	Département de Niamey	13.53333	2.2	ADM2	second-order administrative division	NE|08|2440482	Niger|Niamey|Département de Niamey	2015-03-24T15:07:34+0000
+2451184	Sikasso	11.3	-6.2	ADM1	first-order administrative division	ML|06	Mali|Sikasso	2015-03-24T15:07:34+0000
+2453347	Mopti	14.7	-3.4	ADM1	first-order administrative division	ML|04	Mali|Mopti	2015-03-24T15:07:35+0000
+2453866	Mali	18	-2	PCLI	independent political entity	ML|00		2015-03-24T15:07:35+0000
+2451477	Ségou	13.6	-5.9	ADM1	first-order administrative division	ML|05	Mali|Ségou	2015-03-24T15:07:35+0000
+2454532	Koulikoro	13.8	-7.5	ADM1	first-order administrative division	ML|07	Mali|Koulikoro	2015-03-24T15:07:35+0000
+2460594	Bamako Region	12.65	-8	ADM1	first-order administrative division	ML|01	Mali|Bamako	2015-03-24T15:07:35+0000
+2464461	Tunisia	34	9	PCLI	independent political entity	TN|00		2015-03-24T15:07:35+0000
+250799	Adjlun	32.33326	35.75279	PPLA	seat of a first-order administrative division	JO|20	Jordan|Ajloun	2015-03-24T15:07:35+0000
+2529647	Taroudannt	30.5	-8.41667	ADM2	second-order administrative division	MA|55|541	Morocco|Souss-Massa-Drâa|Taroudannt	2015-03-24T15:07:35+0000
+2542007	Morocco	32	-6	PCLI	independent political entity	MA|00		2015-03-24T15:07:36+0000
+2595348	Nasarawa State	8.5	8.25	ADM1	first-order administrative division	NG|56	Nigeria|Nassarawa	2015-03-24T15:07:36+0000
+266923	Tahouitet el Ghadîr	33.835	35.50611	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:36+0000
+273535	Jall Al Dieb	33.90833	35.58139	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:36+0000
+2403846	Sierra Leone	8.5	-11.5	PCLI	independent political entity	SL|00		2015-03-24T15:07:36+0000
+270220	Mkallès	33.86444	35.55056	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:36+0000
+275739	Ed Daoura	33.89611	35.55861	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:37+0000
+276125	Borj Hammoud	33.88861	35.53944	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:37+0000
+276780	Beyrouth	33.88333	35.5	ADM1	first-order administrative division	LB|04	Lebanon|Beyrouth	2015-03-24T15:07:37+0000
+277225	Caza de Baabda	33.84592	35.66791	ADM2	second-order administrative division	LB|05|277225	Lebanon|Mont-Liban|Caza de Baabda	2015-03-24T15:07:37+0000
+276781	Beirut	33.88894	35.49442	PPLC	capital of a political entity	LB|04	Lebanon|Beyrouth	2015-03-24T15:07:37+0000
+277226	Baabda	33.83389	35.54417	PPLA	seat of a first-order administrative division	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:37+0000
+278139	Ech Chouaïfât	33.80861	35.51778	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:37+0000
+278159	Chiyah	33.86444	35.51861	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:38+0000
+2782064	Badendorf	46.85	15.6	PPL	populated place	AT|06|610|61027	Austria|Styria|Leibnitz|Ragnitz	2015-03-24T15:07:38+0000
+279422	El Mazraa	33.88	35.50278	PPLX	section of populated place	LB|04	Lebanon|Beyrouth	2015-03-24T15:07:38+0000
+278792	Antelias	33.915	35.59306	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:38+0000
+280424	Caza de Aaley	33.77565	35.59297	ADM2	second-order administrative division	LB|05|280424	Lebanon|Mont-Liban|Caza de Aaley	2015-03-24T15:07:38+0000
+280740	Ed Dekouané	33.87806	35.55083	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:38+0000
+279854	Jdaidet el Matn	33.89056	35.56639	PPLA2	seat of a second-order administrative division	LB|05	Lebanon|Mont-Liban	2015-03-24T15:07:39+0000
+3082227	Wielki Zalew	53.76667	14.41667	LGN	lagoon	PL|87	Poland|West Pomeranian Voivodeship	2015-03-24T15:07:39+0000
+305419	Kura River	39.38367	49.29909	STM	stream	AZ|00		2015-03-24T15:07:39+0000
+3083829	Szczecin	53.42894	14.55302	PPLA	seat of a first-order administrative division	PL|87|3262|326201	Poland|West Pomeranian Voivodeship|Szczecin|Szczecin	2015-03-24T15:07:39+0000
+3083955	Świnoujście	53.91053	14.24712	PPLA2	seat of a second-order administrative division	PL|87|3263|326301	Poland|West Pomeranian Voivodeship|Świnoujście|Świnoujście	2015-03-24T15:07:39+0000
+3089178	Piastowski Kanał	53.86667	14.28333	CNL	canal	PL|87	Poland|West Pomeranian Voivodeship	2015-03-24T15:07:40+0000
+3098444	Ostrów Grabowski	53.43084	14.59368	ISL	island	PL|87	Poland|West Pomeranian Voivodeship	2015-03-24T15:07:40+0000
+3099424	Gdynia	54.51889	18.53188	PPL	populated place	PL|82|2262|226201	Poland|Pomeranian Voivodeship|Gdynia|Gdynia	2015-03-24T15:07:40+0000
+3099434	Gdańsk	54.35205	18.64637	PPLA	seat of a first-order administrative division	PL|82|2261|226101	Poland|Pomeranian Voivodeship|Gdańsk|Gdańsk	2015-03-24T15:07:40+0000
+335005	Hirgīgo	15.53774	39.45294	PPL	populated place	ER|06	Eritrea|Semēnawī Kʼeyih Bahrī	2015-03-24T15:07:40+0000
+331677	Bench Maji Zone	6.45994	35.30549	ADM2	second-order administrative division	ET|54|331677	Ethiopia|Southern Nations, Nationalities, and People's Region|Bench Maji Zone	2015-03-24T15:07:41+0000
+330546	Massawa	15.60811	39.47455	PPLA	seat of a first-order administrative division	ER|06	Eritrea|Semēnawī Kʼeyih Bahrī	2015-03-24T15:07:41+0000
+3386357	Rio Timonha	-2.93028	-41.2725	STM	stream	BR|06	Brazil|Ceará	2015-03-24T15:07:41+0000
+3388725	Riacho São Gonçalo	-6.16667	-40.53333	STMI	intermittent stream	BR|06	Brazil|Ceará	2015-03-24T15:07:41+0000
+3389385	Santana do Cariri	-7.17968	-39.78451	ADM2	second-order administrative division	BR|06|2312106	Brazil|Ceará|Santana do Cariri	2015-03-24T15:07:41+0000
+3390433	Riacho do Meio (3)	-6.1	-39.06667	PPL	populated place	BR|06|2311355	Brazil|Ceará|Quixelô	2015-03-24T15:07:41+0000
+3391418	Porteiras	-7.59509	-39.07443	ADM2	second-order administrative division	BR|06|2311108	Brazil|Ceará|Porteiras	2015-03-24T15:07:41+0000
+3394754	Missão Velha	-7.23707	-39.11196	ADM2	second-order administrative division	BR|06|2308401	Brazil|Ceará|Missão Velha	2015-03-24T15:07:41+0000
+272103	Lebanon	33.83333	35.83333	PCLI	independent political entity	LB|00		2015-03-24T15:07:42+0000
+3394188	Rio Mundaú	-3.1874	-39.40554	STMI	intermittent stream	BR|06	Brazil|Ceará	2015-03-24T15:07:42+0000
+3396018	Macaoca	-4.76944	-39.47972	PPLL	populated locality	BR|06|2307635	Brazil|Ceará|Madalena	2015-03-24T15:07:42+0000
+3397146	Juazeiro do Norte	-7.14669	-39.24697	ADM2	second-order administrative division	BR|06|2307304	Brazil|Ceará|Juazeiro do Norte	2015-03-24T15:07:42+0000
+3396655	Riacho Lagoa Nova	-4.53333	-38.75	STMI	intermittent stream	BR|06	Brazil|Ceará	2015-03-24T15:07:42+0000
+3395448	Maranguape	-3.99581	-38.72969	ADM2	second-order administrative division	BR|06|2307700	Brazil|Ceará|Maranguape	2015-03-24T15:07:42+0000
+3397572	Jardim	-7.63821	-39.24037	ADM2	second-order administrative division	BR|06|2307106	Brazil|Ceará|Jardim	2015-03-24T15:07:42+0000
+3397668	Rio Jaguaribe	-6.16478	-40.30931	STMI	intermittent stream	BR|06	Brazil|Ceará	2015-03-24T15:07:42+0000
+3397909	Itapipoca	-3.49444	-39.57861	PPL	populated place	BR|06|2306405	Brazil|Ceará|Itapipoca	2015-03-24T15:07:42+0000
+3401727	Rio Coreaú	-2.89556	-40.83778	STM	stream	BR|06	Brazil|Ceará	2015-03-24T15:07:43+0000
+3401544	Crato	-7.14714	-39.47132	ADM2	second-order administrative division	BR|06|2304202	Brazil|Ceará|Crato	2015-03-24T15:07:43+0000
+3402362	Ceará	-5	-39.5	ADM1	first-order administrative division	BR|06	Brazil|Ceará	2015-03-24T15:07:43+0000
+3399415	Fortaleza	-3.71722	-38.54306	PPLA	seat of a first-order administrative division	BR|06|2304400	Brazil|Ceará|Fortaleza	2015-03-24T15:07:43+0000
+3402447	Rio Catu	-3.9	-38.33333	STMI	intermittent stream	BR|06	Brazil|Ceará	2015-03-24T15:07:43+0000
+3403145	Capistrano	-4.4623	-38.92072	ADM2	second-order administrative division	BR|06|2302909	Brazil|Ceará|Capistrano	2015-03-24T15:07:43+0000
+3405952	Serra de Baturité	-4.20419	-38.93915	MT	mountain	BR|06|2303006	Brazil|Ceará|Caridade	2015-03-24T15:07:43+0000
+3406132	Rio Barrigas	-5.06667	-39.63333	STMI	intermittent stream	BR|06	Brazil|Ceará	2015-03-24T15:07:43+0000
+3406144	Barrento	-3.31056	-39.515	PPLL	populated locality	BR|06|2306405	Brazil|Ceará|Itapipoca	2015-03-24T15:07:43+0000
+3406441	Barbalha	-7.43604	-39.35273	ADM2	second-order administrative division	BR|06|2301901	Brazil|Ceará|Barbalha	2015-03-24T15:07:43+0000
+3407247	Chapada do Araripe	-7.38738	-40.21606	UPLD	upland	BR|00		2015-03-24T15:07:44+0000
+3407234	Serra da Aratanha	-3.98333	-38.63333	MT	mountain	BR|06|2309706	Brazil|Ceará|Pacatuba	2015-03-24T15:07:44+0000
+343378	Assab Wedeb	13.00592	42.74609	PRT	port	ER|00		2015-03-24T15:07:44+0000
+3434137	Entre Rios	-32	-59	ADM1	first-order administrative division	AR|08	Argentina|Entre Rios	2015-03-24T15:07:44+0000
+3446537	Tietê River	-20.66667	-51.58333	STM	stream	BR|27	Brazil|São Paulo	2015-03-24T15:07:44+0000
+3435214	Corrientes	-29	-58	ADM1	first-order administrative division	AR|06	Argentina|Corrientes	2015-03-24T15:07:44+0000
+3448433	São Paulo	-22	-49	ADM1	first-order administrative division	BR|27	Brazil|São Paulo	2015-03-24T15:07:44+0000
+3608932	Honduras	15	-86.5	PCLI	independent political entity	HN|00		2015-03-24T15:07:45+0000
+3520887	Quintana Roo	19.66667	-88.25	ADM1	first-order administrative division	MX|23	Mexico|Quintana Roo	2015-03-24T15:07:45+0000
+3522509	Oaxaca	17	-96.5	ADM1	first-order administrative division	MX|20	Mexico|Oaxaca	2015-03-24T15:07:45+0000
+3527213	Guerrero	17.66667	-100	ADM1	first-order administrative division	MX|12	Mexico|Guerrero	2015-03-24T15:07:45+0000
+361058	Alexandria	31.21564	29.95527	PPLA	seat of a first-order administrative division	EG|06	Egypt|Alexandria	2015-03-24T15:07:45+0000
+3650445	Provincia del Tungurahua	-1.25	-78.5	ADM1	first-order administrative division	EC|19	Ecuador|Tungurahua	2015-03-24T15:07:46+0000
+3652108	Cantón Salcedo	-1.03333	-78.6	ADM2	second-order administrative division	EC|07|3652108	Ecuador|Cotopaxi|Cantón Salcedo	2015-03-24T15:07:46+0000
+3652572	Cantón Quero	-1.36667	-78.6	ADM2	second-order administrative division	EC|19|3652572	Ecuador|Tungurahua|Cantón Quero	2015-03-24T15:07:46+0000
+3650380	Ulba	-1.3956	-78.39616	PPL	populated place	EC|19	Ecuador|Tungurahua	2015-03-24T15:07:46+0000
+3652683	Cantón Pujilí	-0.95	-78.68333	ADM2	second-order administrative division	EC|07|3652683	Ecuador|Cotopaxi|Cantón Pujilí	2015-03-24T15:07:46+0000
+3652720	Puerto Pechiche	-1.43333	-79.56667	PPL	populated place	EC|13	Ecuador|Los Ríos	2015-03-24T15:07:46+0000
+3653158	Cantón Píllaro	-1.16667	-78.53333	ADM2	second-order administrative division	EC|19|3653158	Ecuador|Tungurahua|Cantón Píllaro	2015-03-24T15:07:46+0000
+3653692	Cantón Otavalo	0.22409	-78.17255	ADM2	second-order administrative division	EC|11|3653692	Ecuador|Imbabura|Cantón Otavalo	2015-03-24T15:07:46+0000
+3654592	Provincia de Los Ríos	-1.41667	-79.58333	ADM1	first-order administrative division	EC|13	Ecuador|Los Ríos	2015-03-24T15:07:46+0000
+3652785	Cantón Puebloviejo	-1.55	-79.53333	ADM2	second-order administrative division	EC|13|3652785	Ecuador|Los Ríos|Cantón Puebloviejo	2015-03-24T15:07:47+0000
+3654910	Las Naves	-1.28574	-79.3146	PPL	populated place	EC|03	Ecuador|Bolívar	2015-03-24T15:07:47+0000
+3655848	Hacienda Yanayacu	-1.0955	-78.49355	PPL	populated place	EC|19	Ecuador|Tungurahua	2015-03-24T15:07:47+0000
+3655635	Provincia de Imbabura	0.37631	-78.32371	ADM1	first-order administrative division	EC|11	Ecuador|Imbabura	2015-03-24T15:07:47+0000
+3657129	Hacienda Cumbijín	-1.03243	-78.48086	PPL	populated place	EC|07	Ecuador|Cotopaxi	2015-03-24T15:07:47+0000
+3657508	Cantón Guayaquil	-2.2	-79.88333	ADM2	second-order administrative division	EC|10|3657508	Ecuador|Guayas|Cantón Guayaquil	2015-03-24T15:07:47+0000
+3657509	Guayaquil	-2.20584	-79.90795	PPLA	seat of a first-order administrative division	EC|10	Ecuador|Guayas	2015-03-24T15:07:47+0000
+3658121	El Rosario	-1.29517	-78.56751	PPL	populated place	EC|19	Ecuador|Tungurahua	2015-03-24T15:07:47+0000
+3658766	Provincia de Cotopaxi	-0.83333	-78.83333	ADM1	first-order administrative division	EC|07	Ecuador|Cotopaxi	2015-03-24T15:07:47+0000
+3658915	Columbe	-1.88707	-78.72361	PPL	populated place	EC|06	Ecuador|Chimborazo	2015-03-24T15:07:48+0000
+3658195	Provincia de El Oro	-3.5	-79.83333	ADM1	first-order administrative division	EC|08	Ecuador|El Oro	2015-03-24T15:07:48+0000
+3658919	Cantón Colta	-1.7	-78.75	ADM2	second-order administrative division	EC|06|3658919	Ecuador|Chimborazo|Cantón Colta	2015-03-24T15:07:48+0000
+3659237	Provincia del Chimborazo	-1.91667	-78.75	ADM1	first-order administrative division	EC|06	Ecuador|Chimborazo	2015-03-24T15:07:48+0000
+3660634	Angamarca	-1.11862	-78.93196	PPL	populated place	EC|07	Ecuador|Cotopaxi	2015-03-24T15:07:48+0000
+3660130	Provincia de Bolívar	-1.58333	-79.08333	ADM1	first-order administrative division	EC|03	Ecuador|Bolívar	2015-03-24T15:07:48+0000
+3660343	Cantón Baños	-1.4	-78.41667	ADM2	second-order administrative division	EC|19|3660343	Ecuador|Tungurahua|Cantón Baños	2015-03-24T15:07:48+0000
+3833578	Provincia de Tucumán	-27	-65.5	ADM1	first-order administrative division	AR|24	Argentina|Tucumán	2015-03-24T15:07:48+0000
+3666941	Toluviejo	9.45448	-75.43762	ADM2	second-order administrative division	CO|27|70823	Colombia|Sucre|Toluviejo	2015-03-24T15:07:48+0000
+383388	Siaya	0.06116	34.28823	PPLA	seat of a first-order administrative division	KE|46	Kenya|Siaya	2015-03-24T15:07:49+0000
+3844419	Mendoza	-34.5	-68.5	ADM1	first-order administrative division	AR|13	Argentina|Mendoza	2015-03-24T15:07:49+0000
+3837029	Provincia de San Luis	-34	-66	ADM1	first-order administrative division	AR|19	Argentina|San Luis	2015-03-24T15:07:49+0000
+3853404	Provincia de Jujuy	-23	-66	ADM1	first-order administrative division	AR|10	Argentina|Jujuy	2015-03-24T15:07:49+0000
+3861244	Chubut	-44	-69	ADM1	first-order administrative division	AR|04	Argentina|Chubut	2015-03-24T15:07:49+0000
+3838830	Rio Negro	-40	-67	ADM1	first-order administrative division	AR|16	Argentina|Rio Negro	2015-03-24T15:07:49+0000
+3901178	Yacuiba	-22.01643	-63.67753	PPLA2	seat of a second-order administrative division	BO|09|0603	Bolivia|Tarija|Provincia Gran Chaco	2015-03-24T15:07:50+0000
+3995955	Michoacán	19.16667	-101.83333	ADM1	first-order administrative division	MX|16	Mexico|Michoacán	2015-03-24T15:07:50+0000
+3946083	Callao	-12.05658	-77.11814	PPLA	seat of a first-order administrative division	PE|07|0701|070101	Peru|Callao|Callao|Callao	2015-03-24T15:07:50+0000
+3996063	Mexico	23	-102	PCLI	independent political entity	MX|00		2015-03-24T15:07:50+0000
+3936456	Lima	-12.04318	-77.02824	PPLC	capital of a political entity	PE|LMA	Peru|Lima	2015-03-24T15:07:50+0000
+4004156	Jalisco	20.33333	-103.66667	ADM1	first-order administrative division	MX|14	Mexico|Jalisco	2015-03-24T15:07:50+0000
+400745	North Eastern Province	1	40.25	ADM1H	historical first-order administrative division	KE|06	Kenya|KE.06	2015-03-24T15:07:50+0000
+4011741	Durango	24.83333	-104.83333	ADM1	first-order administrative division	MX|10	Mexico|Durango	2015-03-24T15:07:51+0000
+423145	Burambi	-3.81985	29.54262	PPL	populated place	BI|10	Burundi|Bururi	2015-03-24T15:07:51+0000
+423831	Kayokwe	-3.5281	29.739	PPL	populated place	BI|23	Burundi|Mwaro	2015-03-24T15:07:51+0000
+4032231	Vava‘u	-18.66667	-174	ADM1	first-order administrative division	TO|03	Tonga|Vava‘u	2015-03-24T15:07:51+0000
+423914	Bisoro	-3.5861	29.671	PPL	populated place	BI|23	Burundi|Mwaro	2015-03-24T15:07:51+0000
+426436	Nyabikere	-3.2651	30.1149	PPL	populated place	BI|14	Burundi|Karuzi	2015-03-24T15:07:51+0000
+424024	Mugamba	-3.6664	29.5855	PPL	populated place	BI|10	Burundi|Bururi	2015-03-24T15:07:51+0000
+432619	Vumbi-Bukuba	-2.6988	30.1036	PPL	populated place	BI|16	Burundi|Kirundo	2015-03-24T15:07:51+0000
+443327	Apac District	1.902	32.6	ADM2	second-order administrative division	UG|N|26	Uganda|Northern Region|Apac	2015-03-24T15:07:52+0000
+443328	Arua District	2.96667	31.16667	ADM2	second-order administrative division	UG|N|77	Uganda|Northern Region|Arua	2015-03-24T15:07:52+0000
+443331	Gulu District	2.85604	32.43001	ADM2	second-order administrative division	UG|N|30	Uganda|Northern Region|Gulu	2015-03-24T15:07:52+0000
+443346	Kitgum District	3.406	33.336	ADM2	second-order administrative division	UG|N|84	Uganda|Northern Region|Kitgum	2015-03-24T15:07:52+0000
+443348	Kumi District	1.5	33.95	ADM2	second-order administrative division	UG|E|46	Uganda|Eastern Region|Kumi	2015-03-24T15:07:52+0000
+443347	Kotido District	3	34.1	ADM2	second-order administrative division	UG|N|45	Uganda|Northern Region|Kotido	2015-03-24T15:07:52+0000
+443349	Lira District	2.274	32.953	ADM2	second-order administrative division	UG|N|47	Uganda|Northern Region|Lira	2015-03-24T15:07:52+0000
+443356	Moroto District	2.6389	34.64395	ADM2	second-order administrative division	UG|N|88	Uganda|Northern Region|Moroto	2015-03-24T15:07:52+0000
+443357	Moyo District	3.65	31.72	ADM2	second-order administrative division	UG|N|72	Uganda|Northern Region|Moyo	2015-03-24T15:07:52+0000
+443362	Pallisa District	1.22593	33.77977	ADM2	second-order administrative division	UG|E|60	Uganda|Eastern Region|Pallisa	2015-03-24T15:07:52+0000
+443365	Soroti District	1.78481	33.59432	ADM2	second-order administrative division	UG|E|95	Uganda|Eastern Region|Soroti	2015-03-24T15:07:53+0000
+443360	Nebbi District	2.46732	31.26293	ADM2	second-order administrative division	UG|N|58	Uganda|Northern Region|Nebbi	2015-03-24T15:07:53+0000
+443782	Adjumani District	3.25	31.75	ADM2	second-order administrative division	UG|N|65	Uganda|Northern Region|Adjumani District	2015-03-24T15:07:53+0000
+443784	Busia District	0.41762	34.00421	ADM2	second-order administrative division	UG|E|67	Uganda|Eastern Region|Busia	2015-03-24T15:07:53+0000
+443785	Katakwi District	1.92157	34.04753	ADM2	second-order administrative division	UG|E|69	Uganda|Eastern Region|Katakwi	2015-03-24T15:07:53+0000
+448221	Nakapiripirit District	1.90718	34.59601	ADM2	second-order administrative division	UG|N|91	Uganda|Northern Region|Nakapiripirit	2015-03-24T15:07:53+0000
+448215	Kaberamaido District	1.75732	33.22576	ADM2	second-order administrative division	UG|E|80	Uganda|Eastern Region|Kaberamaido	2015-03-24T15:07:53+0000
+448222	Pader District	2.956	32.8	ADM2	second-order administrative division	UG|N|92	Uganda|Northern Region|Pader	2015-03-24T15:07:53+0000
+448225	Yumbe District	3.52354	31.28243	ADM2	second-order administrative division	UG|N|97	Uganda|Northern Region|Yumbe	2015-03-24T15:07:53+0000
+453733	Estonia	59	26	PCLI	independent political entity	EE|00		2015-03-24T15:07:54+0000
+453752	Karakalpakstan	44.21636	58.82986	ADM1	first-order administrative division	UZ|09	Uzbekistan|Karakalpakstan	2015-03-24T15:07:54+0000
+471430	Votkinsk	57.04865	53.98717	PPL	populated place	RU|80	Russia|Udmurtiya	2015-03-24T15:07:54+0000
+448917	Madīnat ar Rashīd	33.24804	44.50388	PPLX	section of populated place	IQ|07	Iraq|Mayorality of Baghdad	2015-03-24T15:07:54+0000
+491422	Sochi	43.59917	39.72569	PPL	populated place	RU|38|6695246	Russia|Krasnodarskiy|Sochi City	2015-03-24T15:07:54+0000
+509820	Petrozavodsk	61.78491	34.34691	PPLA	seat of a first-order administrative division	RU|28	Russia|Republic of Karelia	2015-03-24T15:07:55+0000
+472722	Volkhov	59.9258	32.33819	PPL	populated place	RU|42	Russia|Leningrad	2015-03-24T15:07:55+0000
+472459	Vologda	59.2239	39.88398	PPLA	seat of a first-order administrative division	RU|85	Russia|Vologda	2015-03-24T15:07:55+0000
+511794	Pechora	65.14717	57.22439	PPL	populated place	RU|34	Russia|Komi Republic	2015-03-24T15:07:55+0000
+504341	Pskov	57.8136	28.3496	PPLA	seat of a first-order administrative division	RU|60	Russia|Pskov	2015-03-24T15:07:55+0000
+515012	Oryol	52.96508	36.0785	PPLA	seat of a first-order administrative division	RU|56	Russia|Orjol	2015-03-24T15:07:56+0000
+580497	Astrakhan	46.34968	48.04076	PPLA	seat of a first-order administrative division	RU|07|824964	Russia|Astrakhan|Gorod Astrakhan’	2015-03-24T15:07:56+0000
+569696	Cheboksary	56.13222	47.25194	PPLA	seat of a first-order administrative division	RU|16|569698	Russia|Chuvashia|Cheboksarskiy Rayon	2015-03-24T15:07:56+0000
+562237	Gagarin	55.55291	34.99537	PPL	populated place	RU|69	Russia|Smolensk	2015-03-24T15:07:56+0000
+584583	Zardab Rayon	40.25	47.75	ADM1	first-order administrative division	AZ|71	Azerbaijan|Zərdab	2015-03-24T15:07:56+0000
+585149	Samur-Abşeron Kanalı	41.64206	48.4555	CNL	canal	AZ|01	Azerbaijan|Abşeron	2015-03-24T15:07:56+0000
+585383	Narimanovskiy Rayon	40.41667	49.88333	ADM3	third-order administrative division	AZ|09|585383	Azerbaijan|Baki|Narimanovskiy Rayon	2015-03-24T15:07:56+0000
+585749	Qusar Rayon	41.41667	48.25	ADM1	first-order administrative division	AZ|44	Azerbaijan|Qusar	2015-03-24T15:07:57+0000
+585786	Quba Rayon	41.16667	48.41667	ADM1	first-order administrative division	AZ|42	Azerbaijan|Quba	2015-03-24T15:07:57+0000
+586000	Xanarx Kanalı	41.63861	48.42137	STMC	canalized stream	AZ|44	Azerbaijan|Qusar	2015-03-24T15:07:57+0000
+586001	Khachmaz Rayon	41.58333	48.75	ADM1	first-order administrative division	AZ|60	Azerbaijan|Xaçmaz	2015-03-24T15:07:57+0000
+586087	Qazakh Rayon	41.26	45.09	ADM1	first-order administrative division	AZ|40	Azerbaijan|Qazax	2015-03-24T15:07:57+0000
+586112	Goranboy Rayon	40.58333	46.66667	ADM1	first-order administrative division	AZ|21	Azerbaijan|Goranboy	2015-03-24T15:07:57+0000
+587081	Baku City	40.39528	49.88222	ADM1	first-order administrative division	AZ|09	Azerbaijan|Baki	2015-03-24T15:07:57+0000
+587084	Baku	40.37767	49.89201	PPLC	capital of a political entity	AZ|09	Azerbaijan|Baki	2015-03-24T15:07:57+0000
+587450	Võru	57.83389	27.01944	PPLA	seat of a first-order administrative division	EE|21|0919	Estonia|Võrumaa|Võru linn	2015-03-24T15:07:57+0000
+587116	Azerbaijan	40.5	47.5	PCLI	independent political entity	AZ|00		2015-03-24T15:07:58+0000
+588335	Tartu	58.38062	26.72509	PPLA	seat of a first-order administrative division	EE|18|0795	Estonia|Tartu|Tartu linn	2015-03-24T15:07:58+0000
+588754	Saverna	58.06889	26.72472	PPL	populated place	EE|12|0856	Estonia|Põlvamaa|Valgjärve vald	2015-03-24T15:07:58+0000
+589115	Raplamaa	58.96667	24.7	ADM1	first-order administrative division	EE|13	Estonia|Raplamaa	2015-03-24T15:07:58+0000
+590333	Mäo	58.91196	25.61213	PPL	populated place	EE|04|0565	Estonia|Järvamaa|Paide vald	2015-03-24T15:07:58+0000
+590842	Laeva	58.49194	26.36167	PPL	populated place	EE|18|0383	Estonia|Tartu|Laeva vald	2015-03-24T15:07:58+0000
+591078	Kose	59.17889	25.17306	PPL	populated place	EE|01|0337	Estonia|Harju|Kose vald	2015-03-24T15:07:58+0000
+591624	Kärevere	58.43417	26.47583	PPL	populated place	EE|18|0383	Estonia|Tartu|Laeva vald	2015-03-24T15:07:58+0000
+592381	Aruvalla	59.25167	25.02389	PPL	populated place	EE|01|0653	Estonia|Harju|Rae vald	2015-03-24T15:07:59+0000
+590447	Maardu	59.47667	25.025	PPL	populated place	EE|01|0446	Estonia|Harju|Maardu linn	2015-03-24T15:07:59+0000
+591672	Kanepi	57.98306	26.75639	PPL	populated place	EE|12|0285	Estonia|Põlvamaa|Kanepi vald	2015-03-24T15:07:59+0000
+592437	Ardu	59.10056	25.37083	PPL	populated place	EE|01|0363	Estonia|Harju|Kõue vald	2015-03-24T15:07:59+0000
+592639	Aardla	58.31111	26.7775	PPL	populated place	EE|18|0185	Estonia|Tartu|Haaslava vald	2015-03-24T15:07:59+0000
+592619	Adavere	58.70611	25.89917	PPL	populated place	EE|05|0616	Estonia|Jõgevamaa|Põltsamaa vald	2015-03-24T15:07:59+0000
+611668	Tianetis Raioni	42.1	45	ADM2	second-order administrative division	GE|69|611668	Georgia|Mtskheta-Mtianeti|Tianetis Raioni	2015-03-24T15:08:00+0000
+610823	Zugdidi	42.46743	41.7983	ADM2	second-order administrative division	GE|71|610823	Georgia|Samegrelo and Zemo Svaneti|Zugdidi	2015-03-24T15:08:00+0000
+598098	Klaipėda	55.71722	21.1175	PPLA	seat of a first-order administrative division	LT|58|55	Lithuania|Klaipėdos apskritis|Klaipėda City Municipality	2015-03-24T15:08:00+0000
+611681	T'erjola	42.21667	42.9	ADM2	second-order administrative division	GE|66|611681	Georgia|Imereti|T'erjola	2015-03-24T15:08:00+0000
+613607	Kutaisi	42.26791	42.69459	PPLA	seat of a first-order administrative division	GE|66	Georgia|Imereti	2015-03-24T15:08:00+0000
+611403	Ts'khinvali	42.22764	43.96861	PPL	populated place	GE|73	Georgia|Shida Kartli	2015-03-24T15:08:00+0000
+614130	Kareli	42.03042	43.89553	ADM2	second-order administrative division	GE|73|614130	Georgia|Shida Kartli|Kareli	2015-03-24T15:08:01+0000
+614450	Gori	42.06667	44.11667	ADM2	second-order administrative division	GE|73|614450	Georgia|Shida Kartli|Gori	2015-03-24T15:08:01+0000
+6201195	Ḩajjah	16	43.25	ADM1	first-order administrative division	YE|22	Yemen|Ḩajjah	2015-03-24T15:08:01+0000
+6201196	Ibb	14	44.16667	ADM1	first-order administrative division	YE|23	Yemen|Ibb	2015-03-24T15:08:02+0000
+6201197	Laḩij	13.16667	44.58333	ADM1	first-order administrative division	YE|24	Yemen|Laḩij	2015-03-24T15:08:02+0000
+614003	Kharagauli	42	43.25	ADM2	second-order administrative division	GE|66|614003	Georgia|Imereti|Kharagauli	2015-03-24T15:08:02+0000
+6273709	Laïlaké	33.83306	35.51694	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:03+0000
+622968	Puhovichi	53.5	28	ADM2	second-order administrative division	BY|05|622968	Belarus|Minsk|Puhovichi	2015-03-24T15:08:03+0000
+6274905	Hamra	33.89583	35.48306	PPL	populated place	LB|04	Lebanon|Beyrouth	2015-03-24T15:08:03+0000
+6297307	Jomo Kenyatta International Airport	-1.3303	36.92505	AIRP	airport	KE|05	Kenya|Nairobi Area	2015-03-24T15:08:04+0000
+6297293	Cairo International Airport	30.12194	31.40556	AIRP	airport	EG|11	Egypt|Muḩāfaz̧at al Qāhirah	2015-03-24T15:08:04+0000
+6319727	Lagoa do Mato	-5.95535	-43.63105	ADM2	second-order administrative division	BR|13|2105922	Brazil|Maranhão|Lagoa do Mato	2015-03-24T15:08:05+0000
+6320043	Aratuba	-4.41898	-39.04818	ADM2	second-order administrative division	BR|06|2301406	Brazil|Ceará|Aratuba	2015-03-24T15:08:05+0000
+6320050	Caridade	-4.201	-39.14149	ADM2	second-order administrative division	BR|06|2303006	Brazil|Ceará|Caridade	2015-03-24T15:08:06+0000
+6320062	Fortaleza	-3.72271	-38.52465	ADM2	second-order administrative division	BR|06|2304400	Brazil|Ceará|Fortaleza	2015-03-24T15:08:06+0000
+6201193	Aḑ Ḑāli‘	13.8924	44.7625	ADM1	first-order administrative division	YE|18	Yemen|Aḑ Ḑāli‘	2015-03-24T15:08:06+0000
+6320089	Palmácia	-4.12964	-38.84258	ADM2	second-order administrative division	BR|06|2310100	Brazil|Ceará|Palmácia	2015-03-24T15:08:07+0000
+6201194	Omran	16.23022	43.90983	ADM1	first-order administrative division	YE|19	Yemen|Omran	2015-03-24T15:08:07+0000
+6324294	Itapiúna	-4.61918	-38.9313	ADM2	second-order administrative division	BR|06|2306504	Brazil|Ceará|Itapiúna	2015-03-24T15:08:07+0000
+6324296	Madalena	-4.87622	-39.47587	ADM2	second-order administrative division	BR|06|2307635	Brazil|Ceará|Madalena	2015-03-24T15:08:07+0000
+6569475	Marawi	8.02769	124.29585	ADM3	third-order administrative division	PH|14|35|6569475	Philippines|Autonomous Region in Muslim Mindanao|Lanao del Sur|Marawi	2015-03-24T15:08:07+0000
+6324298	Nova Olinda	-7.08567	-39.67195	ADM2	second-order administrative division	BR|06|2309201	Brazil|Ceará|Nova Olinda	2015-03-24T15:08:07+0000
+6620016	Jayanagar	12.92777	77.58854	PPL	populated place	IN|19|572	India|Karnataka|Bangalore Urban	2015-03-24T15:08:08+0000
+664517	Tulcea	45	28.83333	ADM1	first-order administrative division	RO|37	Romania|Tulcea	2015-03-24T15:08:08+0000
+665091	Judeţul Timiş	45.66667	21.5	ADM1	first-order administrative division	RO|36	Romania|Timiş	2015-03-24T15:08:08+0000
+665283	Teleorman	44.08333	25.16667	ADM1	first-order administrative division	RO|35	Romania|Teleorman	2015-03-24T15:08:08+0000
+665849	Suceava	47.58333	25.75	ADM1	first-order administrative division	RO|34	Romania|Suceava	2015-03-24T15:08:08+0000
+667267	Judeţul Sibiu	45.78428	24.14383	ADM1	first-order administrative division	RO|33	Romania|Sibiu	2015-03-24T15:08:08+0000
+669737	Prahova	45.16667	26	ADM1	first-order administrative division	RO|30	Romania|Prahova	2015-03-24T15:08:08+0000
+671857	Olt	44.33333	24.5	ADM1	first-order administrative division	RO|29	Romania|Olt	2015-03-24T15:08:09+0000
+670938	Petroşani	45.41667	23.36667	PPLA2	seat of a second-order administrative division	RO|21|86990	Romania|Hunedoara|Municipiul Petroşani	2015-03-24T15:08:09+0000
+672460	Judeţul Neamţ	47	26.5	ADM1	first-order administrative division	RO|28	Romania|Neamţ	2015-03-24T15:08:09+0000
+673612	Judeţul Mehedinţi	44.66667	22.83333	ADM1	first-order administrative division	RO|26	Romania|Mehedinţi	2015-03-24T15:08:09+0000
+673887	Maramureş	47.66667	24	ADM1	first-order administrative division	RO|25	Romania|Maramureş	2015-03-24T15:08:09+0000
+675809	Judeţul Iaşi	47.25	27.25	ADM1	first-order administrative division	RO|23	Romania|Iaşi	2015-03-24T15:08:09+0000
+675917	Hunedoara	45.75	23	ADM1	first-order administrative division	RO|21	Romania|Hunedoara	2015-03-24T15:08:09+0000
+676309	Harghita	46.58333	25.41667	ADM1	first-order administrative division	RO|20	Romania|Harghita	2015-03-24T15:08:10+0000
+6299949	Fuaʻamotu International Airport	-21.24121	-175.14964	AIRP	airport			2015-03-24T15:08:10+0000
+677692	Judeţul Galaţi	45.75	27.75	ADM1	first-order administrative division	RO|18	Romania|Galaţi	2015-03-24T15:08:10+0000
+679134	Dolj	44.16667	23.75	ADM1	first-order administrative division	RO|17	Romania|Dolj	2015-03-24T15:08:10+0000
+679385	Judeţul Dâmboviţa	44.91667	25.5	ADM1	first-order administrative division	RO|16	Romania|Dâmboviţa	2015-03-24T15:08:10+0000
+679452	Deva	45.88333	22.9	PPLA2	seat of a second-order administrative division	RO|21|86687	Romania|Hunedoara|Municipiul Deva	2015-03-24T15:08:10+0000
+680428	Covasna	45.91667	26	ADM1	first-order administrative division	RO|15	Romania|Covasna	2015-03-24T15:08:10+0000
+681291	Judeţul Cluj	46.64944	23.81836	ADM1	first-order administrative division	RO|13	Romania|Cluj	2015-03-24T15:08:10+0000
+682714	Judeţul Caraş-Severin	45.08333	22.08333	ADM1	first-order administrative division	RO|12	Romania|Caraş-Severin	2015-03-24T15:08:10+0000
+683016	Judeţul Călăraşi	44.25	27	ADM1	first-order administrative division	RO|41	Romania|Călăraşi	2015-03-24T15:08:10+0000
+683121	Judeţul Buzău	45.41667	26.75	ADM1	first-order administrative division	RO|11	Romania|Buzău	2015-03-24T15:08:11+0000
+683504	București	44.5	26.08333	ADM1	first-order administrative division	RO|10	Romania|Bucureşti	2015-03-24T15:08:11+0000
+683843	Judeţul Braşov	45.75	25.33333	ADM1	first-order administrative division	RO|09	Romania|Braşov	2015-03-24T15:08:11+0000
+684038	Judeţul Botoşani	47.83333	26.75	ADM1	first-order administrative division	RO|07	Romania|Botoşani	2015-03-24T15:08:11+0000
+683901	Judeţul Brăila	45.08333	27.66667	ADM1	first-order administrative division	RO|08	Romania|Brăila	2015-03-24T15:08:11+0000
+684647	Judeţul Bistriţa-Năsăud	47.16667	24.58333	ADM1	first-order administrative division	RO|06	Romania|Bistriţa-Năsăud	2015-03-24T15:08:11+0000
+685947	Judeţul Bacău	46.41667	26.83333	ADM1	first-order administrative division	RO|04	Romania|Bacău	2015-03-24T15:08:11+0000
+686581	Judeţul Alba	46.06817	23.57245	ADM1	first-order administrative division	RO|01	Romania|Alba	2015-03-24T15:08:12+0000
+6842262	Arboutchatak	12.15326	17.56615	PPL	populated place	TD|01	Chad|Batha	2015-03-24T15:08:12+0000
+690791	Ukraine	49	32	PCLI	independent political entity	UA|00		2015-03-24T15:08:12+0000
+686192	Judeţul Argeş	45	24.83333	ADM1	first-order administrative division	RO|03	Romania|Argeş	2015-03-24T15:08:12+0000
+6930704	Centre	12.37874	-1.53276	ADM1	first-order administrative division	BF|03	Burkina Faso|Centre	2015-03-24T15:08:12+0000
+6930705	Centre-Est	11.78922	-0.35706	ADM1	first-order administrative division	BF|04	Burkina Faso|Centre-Est	2015-03-24T15:08:12+0000
+6930706	Centre-Nord	13.09829	-1.0855	ADM1	first-order administrative division	BF|05	Burkina Faso|Centre-Nord	2015-03-24T15:08:12+0000
+6930710	High-Basins Region	11.28	-4.32	ADM1	first-order administrative division	BF|09	Burkina Faso|High-Basins	2015-03-24T15:08:12+0000
+6930713	Sahel	14.03351	-0.04575	ADM1	first-order administrative division	BF|12	Burkina Faso|Sahel	2015-03-24T15:08:12+0000
+6930714	Southwest Region	10.5	-3.2	ADM1	first-order administrative division	BF|13	Burkina Faso|Southwest	2015-03-24T15:08:13+0000
+69543	Yemen	15.5	47.5	PCLI	independent political entity	YE|00		2015-03-24T15:08:13+0000
+701822	Mariupol	47.09514	37.54131	PPL	populated place	UA|05	Ukraine|Donetsk	2015-03-24T15:08:13+0000
+698740	Odesa	46.47747	30.73262	PPLA	seat of a first-order administrative division	UA|17	Ukraine|Odessa	2015-03-24T15:08:13+0000
+7052684	Rāghistān	37.65963	70.66961	ADM2	second-order administrative division	AF|01|7052684	Afghanistan|Badakhshan|Rāghistān	2015-03-24T15:08:13+0000
+7053957	Tsowkêy	34.74075	70.8636	ADM2	second-order administrative division	AF|34|7053957	Afghanistan|Konar|Tsowkêy	2015-03-24T15:08:13+0000
+702550	Lviv	49.83826	24.02324	PPLA	seat of a first-order administrative division	UA|15	Ukraine|Lviv	2015-03-24T15:08:13+0000
+703448	Kyiv	50.45466	30.5238	PPLC	capital of a political entity	UA|12	Ukraine|Kyiv City	2015-03-24T15:08:13+0000
+7053962	Marawarah	34.86178	71.22889	ADM2	second-order administrative division	AF|34|7053962	Afghanistan|Konar|Marawarah	2015-03-24T15:08:14+0000
+7053973	Qarghah’ī	34.52462	70.155	ADM2	second-order administrative division	AF|35|7053973	Afghanistan|Laghmān|Qarghah’ī	2015-03-24T15:08:14+0000
+7056273	Abim District	2.75	33.75	ADM2	second-order administrative division	UG|N|B6	Uganda|Northern Region|Abim	2015-03-24T15:08:14+0000
+7053972	Mehtar Lām	34.6518	70.09508	ADM2	second-order administrative division	AF|35|7053972	Afghanistan|Laghmān|Mehtar Lām	2015-03-24T15:08:14+0000
+7056275	Amolatar District	1.63333	32.83333	ADM2	second-order administrative division	UG|N|B7	Uganda|Northern Region|Amolatar	2015-03-24T15:08:14+0000
+7056276	Amuria District	2.08333	33.66667	ADM2	second-order administrative division	UG|E|B8	Uganda|Eastern Region|Amuria	2015-03-24T15:08:14+0000
+7056278	Amuru District	3	32	ADM2	second-order administrative division	UG|N|B9	Uganda|Northern Region|Amuru	2015-03-24T15:08:14+0000
+7056279	Budaka District	1.05249	33.99221	ADM2	second-order administrative division	UG|E|C1	Uganda|Eastern Region|Budaka	2015-03-24T15:08:14+0000
+7056286	Kaabong District	3.58333	34	ADM2	second-order administrative division	UG|N|D1	Uganda|Northern Region|Kaabong	2015-03-24T15:08:15+0000
+7056283	Dokolo District	1.93607	33.06137	ADM2	second-order administrative division	UG|N|C7	Uganda|Northern Region|Dokolo	2015-03-24T15:08:15+0000
+7056295	Oyam District	2.38129	32.50072	ADM2	second-order administrative division	UG|N|E2	Uganda|Northern Region|Oyam	2015-03-24T15:08:15+0000
+7056289	Koboko District	3.5	31	ADM2	second-order administrative division	UG|N|D4	Uganda|Northern Region|Koboko	2015-03-24T15:08:15+0000
+7057508	Dompu Regency	-8.5094	118.4816	ADM2	second-order administrative division	ID|17|5205	Indonesia|West Nusa Tenggara|Dompu Regency	2015-03-24T15:08:15+0000
+706483	Kharkiv	49.98081	36.25272	PPLA	seat of a first-order administrative division	UA|07	Ukraine|Kharkiv	2015-03-24T15:08:15+0000
+728330	Pernik	42.6	23.03333	PPLA	seat of a first-order administrative division	BG|49|PER32	Bulgaria|Pernik|Obshtina Pernik	2015-03-24T15:08:15+0000
+7290466	Pasig	14.58691	121.0614	PPLA2	seat of a second-order administrative division	PH|NCR|L8	Philippines|Metro Manila|Pasig	2015-03-24T15:08:15+0000
+727011	Sofia	42.69751	23.32415	PPLC	capital of a political entity	BG|42|SOF46	Bulgaria|Sofia-Capital|Municipality of the Capital	2015-03-24T15:08:15+0000
+7302833	Gajuwaka	17.7	83.21667	PPL	populated place	IN|02|544	India|Andhra Pradesh|Vishākhapatnam	2015-03-24T15:08:16+0000
+7303940	Bujumbura Rural Province	-3.4627	29.46259	ADM1	first-order administrative division	BI|25	Burundi|Bujumbura Rural	2015-03-24T15:08:16+0000
+7522294	Kambja vald	58.20255	26.68996	ADM2	second-order administrative division	EE|18|0282	Estonia|Tartu|Kambja vald	2015-03-24T15:08:16+0000
+7522313	Koigi vald	58.83802	25.8286	ADM2	second-order administrative division	EE|04|0325	Estonia|Järvamaa|Koigi vald	2015-03-24T15:08:16+0000
+7522281	Imavere vald	58.74841	25.75396	ADM2	second-order administrative division	EE|04|0234	Estonia|Järvamaa|Imavere vald	2015-03-24T15:08:16+0000
+7522295	Kanepi vald	57.98058	26.76151	ADM2	second-order administrative division	EE|12|0285	Estonia|Põlvamaa|Kanepi vald	2015-03-24T15:08:16+0000
+7522317	Kose vald	59.18589	25.11143	ADM2	second-order administrative division	EE|01|0337	Estonia|Harju|Kose vald	2015-03-24T15:08:16+0000
+7522320	Kõlleste vald	58.10668	26.83354	ADM2	second-order administrative division	EE|12|0354	Estonia|Põlvamaa|Kõlleste vald	2015-03-24T15:08:16+0000
+7522323	Kõue vald	59.10106	25.26247	ADM2	second-order administrative division	EE|01|0363	Estonia|Harju|Kõue vald	2015-03-24T15:08:16+0000
+7522329	Laeva vald	58.47081	26.35642	ADM2	second-order administrative division	EE|18|0383	Estonia|Tartu|Laeva vald	2015-03-24T15:08:17+0000
+7522343	Misso vald	57.60384	27.24664	ADM2	second-order administrative division	EE|21|0468	Estonia|Võrumaa|Misso vald	2015-03-24T15:08:17+0000
+7522367	Paide vald	58.95444	25.58477	ADM2	second-order administrative division	EE|04|0565	Estonia|Järvamaa|Paide vald	2015-03-24T15:08:17+0000
+7522382	Puurmani vald	58.6	26.2493	ADM2	second-order administrative division	EE|05|0611	Estonia|Jõgevamaa|Puurmani vald	2015-03-24T15:08:17+0000
+7522384	Põltsamaa vald	58.64067	26.00957	ADM2	second-order administrative division	EE|05|0616	Estonia|Jõgevamaa|Põltsamaa vald	2015-03-24T15:08:17+0000
+7522400	Ülenurme vald	58.3152	26.68075	ADM2	second-order administrative division	EE|18|0949	Estonia|Tartu|Ülenurme vald	2015-03-24T15:08:17+0000
+7522385	Põltsamaa linn	58.65362	25.97691	ADM2	second-order administrative division	EE|05|0617	Estonia|Jõgevamaa|Põltsamaa linn	2015-03-24T15:08:17+0000
+7522432	Sõmerpalu vald	57.86225	26.76852	ADM2	second-order administrative division	EE|21|0767	Estonia|Võrumaa|Sõmerpalu vald	2015-03-24T15:08:17+0000
+7522434	Tartu linn	58.37498	26.73256	ADM2	second-order administrative division	EE|18|0795	Estonia|Tartu|Tartu linn	2015-03-24T15:08:17+0000
+7522473	Tähtvere vald	58.39562	26.57597	ADM2	second-order administrative division	EE|18|0831	Estonia|Tartu|Tähtvere vald	2015-03-24T15:08:18+0000
+7522456	Vastseliina vald	57.74476	27.26341	ADM2	second-order administrative division	EE|21|0874	Estonia|Võrumaa|Vastseliina vald	2015-03-24T15:08:18+0000
+7522475	Valgjärve vald	58.09751	26.69563	ADM2	second-order administrative division	EE|12|0856	Estonia|Põlvamaa|Valgjärve vald	2015-03-24T15:08:18+0000
+7522483	Võru Parish	57.86618	26.97418	ADM2	second-order administrative division	EE|21|0918	Estonia|Võrumaa|Võru Parish	2015-03-24T15:08:18+0000
+7522484	Võru linn	57.83553	27.00119	ADM2	second-order administrative division	EE|21|0919	Estonia|Võrumaa|Võru linn	2015-03-24T15:08:18+0000
+7530749	Świnoujście	53.8502	14.31313	ADM2	second-order administrative division	PL|87|3263	Poland|West Pomeranian Voivodeship|Świnoujście	2015-03-24T15:08:18+0000
+7530840	Szczecin	53.4297	14.62422	ADM2	second-order administrative division	PL|87|3262	Poland|West Pomeranian Voivodeship|Szczecin	2015-03-24T15:08:18+0000
+7531507	Biały Dunajec	49.3673	20.00798	ADM3	third-order administrative division	PL|77|1217|121702	Poland|Lesser Poland Voivodeship|Powiat tatrzański|Biały Dunajec	2015-03-24T15:08:18+0000
+7531516	Szaflary	49.41759	19.99328	ADM3	third-order administrative division	PL|77|1211|121114	Poland|Lesser Poland Voivodeship|Powiat nowotarski|Szaflary	2015-03-24T15:08:18+0000
+7531513	Zakopane	49.27576	19.97186	ADM3	third-order administrative division	PL|77|1217|121701	Poland|Lesser Poland Voivodeship|Powiat tatrzański|Zakopane	2015-03-24T15:08:19+0000
+7531523	Poronin	49.2954	20.00464	ADM3	third-order administrative division	PL|77|1217|121705	Poland|Lesser Poland Voivodeship|Powiat tatrzański|Poronin	2015-03-24T15:08:19+0000
+7532197	Kościelisko	49.2733	19.8463	ADM3	third-order administrative division	PL|77|1217|121704	Poland|Lesser Poland Voivodeship|Powiat tatrzański|Kościelisko	2015-03-24T15:08:19+0000
+7532414	Nowy Targ	49.482	20.0542	ADM3	third-order administrative division	PL|77|1211|121109	Poland|Lesser Poland Voivodeship|Powiat nowotarski|Nowy Targ	2015-03-24T15:08:19+0000
+7603036	Nyandarua	-0.344	36.5	ADM1	first-order administrative division	KE|43	Kenya|Nyandarua	2015-03-24T15:08:19+0000
+7602872	Concelho do Tarrafal de São Nicolau	16.6	-24.35	ADM1	first-order administrative division	CV|27	Cape Verde|Tarrafal de São Nicolau	2015-03-24T15:08:19+0000
+7603251	Hadjer-Lamis	12.66667	16.16667	ADM1	first-order administrative division	TD|18	Chad|Hadjer-Lamis	2015-03-24T15:08:19+0000
+7626859	Vizianagaram District	18.41102	83.37677	ADM2	second-order administrative division	IN|02|543	India|Andhra Pradesh|Vizianagaram District	2015-03-24T15:08:19+0000
+7627223	Buxar	25.5	84.1	ADM2	second-order administrative division	IN|34|232	India|Bihar|Buxar	2015-03-24T15:08:20+0000
+7627238	Patan	23.7	71.8	ADM2	second-order administrative division	IN|09|470	India|Gujarat|Patan	2015-03-24T15:08:20+0000
+7645159	Nathpa Jhakri	31.335	78.5849	DAM	dam	IN|11|034	India|Himachal Pradesh|Kinnaur	2015-03-24T15:08:20+0000
+7646374	Gondola District	-19.15	33.66	ADM2	second-order administrative division	MZ|10|7646374	Mozambique|Manica|Gondola District	2015-03-24T15:08:20+0000
+7648911	Agevairu	-9.01922	146.81674	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:08:20+0000
+7646145	Chennai	13.08891	80.26483	ADM2	second-order administrative division	IN|25|603	India|Tamil Nadu|Chennai	2015-03-24T15:08:20+0000
+7648913	Ianu	-10.13	148.4	PPL	populated place	PG|01	Papua New Guinea|Central Province	2015-03-24T15:08:20+0000
+7667644	Machakos	-1.282	37.408	ADM1	first-order administrative division	KE|31	Kenya|Machakos	2015-03-24T15:08:20+0000
+7668019	Kairuku-Hiri	-9.13648	147.27905	ADM2	second-order administrative division	PG|01|7668019	Papua New Guinea|Central Province|Kairuku-Hiri	2015-03-24T15:08:20+0000
+7668036	Kimbe	-5.68119	150.06101	ADM3	third-order administrative division	PG|17|2085943|7668036	Papua New Guinea|West New Britain|Talasea|Kimbe	2015-03-24T15:08:21+0000
+7668037	Bialla	-5.51452	150.94335	ADM3	third-order administrative division	PG|17|2085943|7668037	Papua New Guinea|West New Britain|Talasea|Bialla	2015-03-24T15:08:21+0000
+7669114	Babek Rayon	39.29	45.39	ADM2	second-order administrative division	AZ|35|7669114	Azerbaijan|Nakhichevan|Babek Rayon	2015-03-24T15:08:21+0000
+7668902	Nakuru	-0.48402	36.17126	ADM1	first-order administrative division	KE|39	Kenya|Nakuru	2015-03-24T15:08:21+0000
+7670758	Sussundenga District	-19.69082	33.27154	ADM2	second-order administrative division	MZ|10|7670758	Mozambique|Manica|Sussundenga District	2015-03-24T15:08:21+0000
+7669163	Kareli	42.0215	43.89553	PPL	populated place			2015-03-24T15:08:21+0000
+7671220	Kafue district	-15.61994	28.44125	ADM2	second-order administrative division	ZM|09|7671220	Zambia|Lusaka|Kafue district	2015-03-24T15:08:21+0000
+7701203	Dausa	26.88269	76.57053	ADM2	second-order administrative division	IN|24|109	India|Rajasthan|Dausa	2015-03-24T15:08:22+0000
+7701212	Baran	25.09	76.66	ADM2	second-order administrative division	IN|24|128	India|Rajasthan|Baran	2015-03-24T15:08:22+0000
+7701204	Dhaulpur	26.71183	77.73956	ADM2	second-order administrative division	IN|24|106	India|Rajasthan|Dhaulpur	2015-03-24T15:08:22+0000
+7701213	Rajsamand	25.23822	73.93503	ADM2	second-order administrative division	IN|24|123	India|Rajasthan|Rajsamand	2015-03-24T15:08:22+0000
+7701431	Okene	7.48333	6.21667	ADM2	second-order administrative division	NG|41|23017	Nigeria|Kogi|Okene	2015-03-24T15:08:22+0000
+7729747	Kanpur Dehat district	26.41506	79.98957	ADM2	second-order administrative division	IN|36|163	India|Uttar Pradesh|Kanpur Dehat district	2015-03-24T15:08:22+0000
+7730334	Lephalale	-23.66607	27.74477	PPLA3	seat of a third-order administrative division	ZA|09|DC36|LIM362	South Africa|Limpopo|Waterberg District Municipality|Lephalale	2015-03-24T15:08:23+0000
+7729751	Sant Ravi Das Nagar	25.35792	82.4308	ADM2	second-order administrative division	IN|36|198	India|Uttar Pradesh|Sant Ravi Das Nagar	2015-03-24T15:08:23+0000
+7731903	Sud Ubangi	3.16795	19.49877	ADM2	second-order administrative division	CD|02|36	Democratic Republic of the Congo|Équateur|Sud Ubangi	2015-03-24T15:08:23+0000
+7668035								2015-03-24T15:08:23+0000
+776433	Bańska Niżna	49.40863	20.01029	PPLX	section of populated place	PL|77	Poland|Lesser Poland Voivodeship	2015-03-24T15:08:23+0000
+7838966	Greater Beirut Area	33.84778	35.55694	PPLL	populated locality	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:23+0000
+7732654	Dāykundī	33.98624	66.03569	ADM2	second-order administrative division	AF|39|7732654	Afghanistan|Orūzgān|Dāykundī	2015-03-24T15:08:23+0000
+7838967	Metn District	33.89417	35.73639	ADM2	second-order administrative division	LB|05|7838967	Lebanon|Mont-Liban|Metn District	2015-03-24T15:08:23+0000
+7838968	Sassine	33.88391	35.52046	PPLX	section of populated place	LB|04	Lebanon|Beyrouth	2015-03-24T15:08:23+0000
+7838974	National Museum of Beirut	33.87868	35.51499	MUS	museum	LB|04	Lebanon|Beyrouth	2015-03-24T15:08:24+0000
+7838977	Zalqa	33.9003	35.57287	PPLX	section of populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:24+0000
+7838976	Gemayel Port	33.89889	35.55056	BLDG	building(s)	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:24+0000
+7838979	Mar Mikhael	33.90151	35.52369	PPLX	section of populated place	LB|04	Lebanon|Beyrouth	2015-03-24T15:08:24+0000
+7838980	Galerie Semaan	33.85639	35.52694	BLDG	building(s)	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:24+0000
+7838983	Tayouneh	33.87028	35.51417	PPLX	section of populated place	LB|04	Lebanon|Beyrouth	2015-03-24T15:08:24+0000
+7838984	Sin el Fil	33.87797	35.53995	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:24+0000
+7838981	Beit El-atfal School	33.87649	35.50679	SCH	school	LB|04	Lebanon|Beyrouth	2015-03-24T15:08:24+0000
+7838988	Ghobeiry	33.85933	35.50409	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:24+0000
+7838994	Mreijeh	33.83417	35.51194	PPLX	section of populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:24+0000
+7838991	Furn el Chebbak	33.8716	35.52552	PPL	populated place	LB|04	Lebanon|Beyrouth	2015-03-24T15:08:25+0000
+7838998	Hazmiyeh	33.85534	35.53589	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:25+0000
+7838999	Zalka Amaret Chalhoub	33.89528	35.57333	PPLX	section of populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:25+0000
+7840035	Moshi Rural District	-3.362	37.459	ADM2	second-order administrative division	TZ|06|7840035	Tanzania|Kilimanjaro|Moshi Rural District	2015-03-24T15:08:25+0000
+7840038	Mkuranga	-7.27	39.2	ADM2	second-order administrative division	TZ|02|7840038	Tanzania|Pwani|Mkuranga	2015-03-24T15:08:25+0000
+7839002	Borj Al Brajne	33.84347	35.49874	PPL	populated place	LB|05	Lebanon|Mont-Liban	2015-03-24T15:08:25+0000
+7869939	Nwoya District	2.50974	31.88448	ADM2	second-order administrative division	UG|N|H2	Uganda|Northern Region|Nwoya District	2015-03-24T15:08:25+0000
+7873883	Aniocha North	6.35447	6.48737	ADM2	second-order administrative division	NG|36|10001	Nigeria|Delta|Aniocha North	2015-03-24T15:08:25+0000
+7873930	Obio/Akpor	4.83153	6.98906	ADM2	second-order administrative division	NG|50|33015	Nigeria|Rivers|Obio/Akpor	2015-03-24T15:08:25+0000
+7873976	Magude District	-25.02389	32.6515	ADM2	second-order administrative division	MZ|04|7873976	Mozambique|Maputo|Magude District	2015-03-24T15:08:26+0000
+7873980	Moamba District	-25.60934	32.24321	ADM2	second-order administrative division	MZ|04|7873980	Mozambique|Maputo|Moamba District	2015-03-24T15:08:26+0000
+7873983	Boane District	-26.029	32.389	ADM2	second-order administrative division	MZ|04|7873983	Mozambique|Maputo|Boane District	2015-03-24T15:08:26+0000
+7873936	Isuikwuato	5.76185	7.46446	ADM2	second-order administrative division	NG|45|1008	Nigeria|Abia|Isuikwuato	2015-03-24T15:08:26+0000
+7873984	Nhamatanda District	-19.349	34.268	ADM2	second-order administrative division	MZ|05|7873984	Mozambique|Sofala|Nhamatanda District	2015-03-24T15:08:26+0000
+7873986	Dondo District	-19.522	34.799	ADM2	second-order administrative division	MZ|05|7873986	Mozambique|Sofala|Dondo District	2015-03-24T15:08:26+0000
+7873991	Gurue District	-15.46358	36.98167	ADM2	second-order administrative division	MZ|09|7873991	Mozambique|Zambézia|Gurue District	2015-03-24T15:08:26+0000
+7873985	Chibabava District	-20.292	33.531	ADM2	second-order administrative division	MZ|05|7873985	Mozambique|Sofala|Chibabava District	2015-03-24T15:08:26+0000
+7873993	Morrumbala District	-17.329	35.591	ADM2	second-order administrative division	MZ|09|7873993	Mozambique|Zambézia|Morrumbala District	2015-03-24T15:08:26+0000
+7874045	Guro District	-16.964	33.569	ADM2	second-order administrative division	MZ|10|7874045	Mozambique|Manica|Guro District	2015-03-24T15:08:27+0000
+7874046	Caia District	-17.769	35.058	ADM2	second-order administrative division	MZ|05|7874046	Mozambique|Sofala|Caia District	2015-03-24T15:08:27+0000
+7874018	Xai-Xai Municipality	-25.04206	33.64117	ADM3	third-order administrative division	MZ|02|9408663|7874018	Mozambique|Gaza|Xai-Xai District|Xai-Xai Municipality	2015-03-24T15:08:27+0000
+7874106	Tsangano District	-15.20012	34.32685	ADM2	second-order administrative division	MZ|08|7874106	Mozambique|Tete|Tsangano District	2015-03-24T15:08:27+0000
+7874404	Matutuíne District	-26.52	32.663	ADM2	second-order administrative division	MZ|04|7874404	Mozambique|Maputo|Matutuíne District	2015-03-24T15:08:27+0000
+7874406	Angoche District	-16.23272	39.91106	ADM2	second-order administrative division	MZ|06|7874406	Mozambique|Nampula|Angoche District	2015-03-24T15:08:27+0000
+7874115	Lichinga District	-13.29701	35.24698	ADM2	second-order administrative division	MZ|07|7874115	Mozambique|Niassa|Lichinga District	2015-03-24T15:08:27+0000
+7874472	Muanza District	-18.89955	34.79679	ADM2	second-order administrative division	MZ|05|7874472	Mozambique|Sofala|Muanza District	2015-03-24T15:08:27+0000
+7874614	Cheringoma District	-18.53268	35.3183	ADM2	second-order administrative division	MZ|05|7874614	Mozambique|Sofala|Cheringoma District	2015-03-24T15:08:27+0000
+7874474	Machanga District	-20.96929	34.99738	ADM2	second-order administrative division	MZ|05|7874474	Mozambique|Sofala|Machanga District	2015-03-24T15:08:27+0000
+7874620	Machaze District	-20.8021	33.41389	ADM2	second-order administrative division	MZ|10|7874620	Mozambique|Manica|Machaze District	2015-03-24T15:08:27+0000
+7874622	Macossa District	-17.89152	33.93694	ADM2	second-order administrative division	MZ|10|7874622	Mozambique|Manica|Macossa District	2015-03-24T15:08:28+0000
+7874624	Tambara District	-16.72359	34.25571	ADM2	second-order administrative division	MZ|10|7874624	Mozambique|Manica|Tambara District	2015-03-24T15:08:28+0000
+7874710	Lugela District	-16.41699	36.72558	ADM2	second-order administrative division	MZ|09|7874710	Mozambique|Zambézia|Lugela District	2015-03-24T15:08:28+0000
+7874708	Gilé District	-16.14411	38.36752	ADM2	second-order administrative division	MZ|09|7874708	Mozambique|Zambézia|Gilé District	2015-03-24T15:08:28+0000
+7874711	Maganja da Costa District	-17.30729	37.50535	ADM2	second-order administrative division	MZ|09|7874711	Mozambique|Zambézia|Maganja da Costa District	2015-03-24T15:08:28+0000
+7874724	Namarroi District	-15.95275	36.87063	ADM2	second-order administrative division	MZ|09|7874724	Mozambique|Zambézia|Namarroi District	2015-03-24T15:08:28+0000
+7874712	Milange District	-16.09992	35.77578	ADM2	second-order administrative division	MZ|09|7874712	Mozambique|Zambézia|Milange District	2015-03-24T15:08:28+0000
+7874725	Nicoadala District	-17.60631	36.81682	ADM2	second-order administrative division	MZ|09|7874725	Mozambique|Zambézia|Nicoadala District	2015-03-24T15:08:28+0000
+7874726	Pebane District	-17.26378	38.13698	ADM2	second-order administrative division	MZ|09|7874726	Mozambique|Zambézia|Pebane District	2015-03-24T15:08:28+0000
+7880951	Mocuba District	-16.83683	36.9871	ADM2	second-order administrative division	MZ|09|7880951	Mozambique|Zambézia|Mocuba District	2015-03-24T15:08:29+0000
+7905000	Changara District	-16.21651	33.17114	ADM2	second-order administrative division	MZ|08|7905000	Mozambique|Tete|Changara District	2015-03-24T15:08:29+0000
+7905199	Chifunde District	-14.81794	32.83331	ADM2	second-order administrative division	MZ|08|7905199	Mozambique|Tete|Chifunde District	2015-03-24T15:08:29+0000
+7909704	Inhassunge District	-18.03306	36.82363	ADM2	second-order administrative division	MZ|09|7909704	Mozambique|Zambézia|Inhassunge District	2015-03-24T15:08:29+0000
+7905529	Chiuta District	-15.564	33.302	ADM2	second-order administrative division	MZ|08|7905529	Mozambique|Tete|Chiuta District	2015-03-24T15:08:29+0000
+7909768	Maringue	-18.0151	34.7161	ADM2	second-order administrative division	MZ|05|7909768	Mozambique|Sofala|Maringue	2015-03-24T15:08:29+0000
+7909770	Chemba	-17.20206	34.60636	ADM2	second-order administrative division	MZ|05|7909770	Mozambique|Sofala|Chemba	2015-03-24T15:08:29+0000
+7909828	Cahora Bassa District	-15.70766	32.67334	ADM2	second-order administrative division	MZ|08|7909828	Mozambique|Tete|Cahora Bassa District	2015-03-24T15:08:30+0000
+7910214	Mawokota	0.05055	32.10574	ADM3	third-order administrative division	UG|C|89|7910214	Uganda|Central Region|Mpigi|Mawokota	2015-03-24T15:08:30+0000
+7932060	Oturkpo	7.26696	8.06764	ADM2	second-order administrative division	NG|26|7019	Nigeria|Benue|Oturkpo	2015-03-24T15:08:30+0000
+7932084	Umu-Nneochi	5.93998	7.41034	ADM2	second-order administrative division	NG|45|1015	Nigeria|Abia|Umu-Nneochi	2015-03-24T15:08:30+0000
+7932431	Montagne D'Ambre National Park	-12.59978	49.14238	PRK	park			2015-03-24T15:08:31+0000
+7932087	Isiala-Ngwa North	5.26783	7.39057	ADM2	second-order administrative division	NG|45|1006	Nigeria|Abia|Isiala-Ngwa North	2015-03-24T15:08:31+0000
+7932502	Abi	5.90661	8.03799	ADM2	second-order administrative division	NG|22|9001	Nigeria|Cross River|Abi	2015-03-24T15:08:31+0000
+794042	Kandiküla	58.38556	26.65056	PPL	populated place	EE|18|0831	Estonia|Tartu|Tähtvere vald	2015-03-24T15:08:31+0000
+794043	Tõrvandi	58.32192	26.70537	PPL	populated place	EE|18|0949	Estonia|Tartu|Ülenurme vald	2015-03-24T15:08:32+0000
+794072	Uhti	58.27861	26.73	PPL	populated place	EE|18|0949	Estonia|Tartu|Ülenurme vald	2015-03-24T15:08:32+0000
+794248	Luhamaa	57.625	27.36139	PPL	populated place	EE|21|0468	Estonia|Võrumaa|Misso vald	2015-03-24T15:08:32+0000
+798549	Romania	46	25	PCLI	independent political entity	RO|00		2015-03-24T15:08:33+0000
+8015586	Apayao River	18.1376	121.3606	STM	stream	PH|15|H6	Philippines|Cordillera|Apayao	2015-03-24T15:08:33+0000
+8030560	Amudat District	1.80626	34.9278	ADM2	second-order administrative division	UG|N|E5	Uganda|Northern Region|Amudat District	2015-03-24T15:08:33+0000
+8030562	Lamwo District	3.55004	32.75057	ADM2	second-order administrative division	UG|N|G3	Uganda|Northern Region|Lamwo District	2015-03-24T15:08:34+0000
+8030561	Napak District	2.38153	34.16834	ADM2	second-order administrative division	UG|N|G8	Uganda|Northern Region|Napak District	2015-03-24T15:08:34+0000
+8030563	Zombo District	2.52031	30.88824	ADM2	second-order administrative division	UG|N|H7	Uganda|Northern Region|Zombo District	2015-03-24T15:08:34+0000
+8030565	Kole District	2.29701	32.74402	ADM2	second-order administrative division	UG|N|F8	Uganda|Northern Region|Kole District	2015-03-24T15:08:34+0000
+7909714	Zavala District	-24.67289	34.6926	ADM2	second-order administrative division	MZ|03|7909714	Mozambique|Inhambane|Zavala District	2015-03-24T15:08:34+0000
+7909715	Massinga District	-23.03229	35.26166	ADM2	second-order administrative division	MZ|03|7909715	Mozambique|Inhambane|Massinga District	2015-03-24T15:08:35+0000
+8030566	Agago District	2.92023	33.35336	ADM2	second-order administrative division	UG|N|E3	Uganda|Northern Region|Agago District	2015-03-24T15:08:35+0000
+8030567	Otuke District	2.48372	33.342	ADM2	second-order administrative division	UG|N|H3	Uganda|Northern Region|Otuke District	2015-03-24T15:08:35+0000
+8030568	Alebtong District	2.26925	33.24234	ADM2	second-order administrative division	UG|N|E4	Uganda|Northern Region|Alebtong District	2015-03-24T15:08:35+0000
+8030569	Serere District	1.487	33.452	ADM2	second-order administrative division	UG|E|H5	Uganda|Eastern Region|Serere District	2015-03-24T15:08:35+0000
+8030570	Ngora District	1.48203	33.75832	ADM2	second-order administrative division	UG|E|G9	Uganda|Eastern Region|Ngora District	2015-03-24T15:08:35+0000
+8030572	Kibuku District	1.05	33.80879	ADM2	second-order administrative division	UG|E|F6	Uganda|Eastern Region|Kibuku District	2015-03-24T15:08:35+0000
+80425	Muḩāfaz̧at Abyan	13.6291	46.126	ADM1	first-order administrative division	YE|01	Yemen|Abyan	2015-03-24T15:08:35+0000
+8133376	Ouakam	14.72389	-17.48917	PPL	populated place	SN|01	Senegal|Dakar	2015-03-24T15:08:35+0000
+8133521	Eastern Province	8.60614	81.20201	ADM1	first-order administrative division	LK|37	Sri Lanka|Eastern Province	2015-03-24T15:08:36+0000
+8223995	Erode	11.34	77.55	ADM2	second-order administrative division	IN|25|610	India|Tamil Nadu|Erode	2015-03-24T15:08:36+0000
+828310	Kutaisi	42.26667	42.6	ADM2	second-order administrative division	GE|66|828310	Georgia|Imereti|Kutaisi	2015-03-24T15:08:36+0000
+8285556	Kapiri-Mposhi District	-14.151	27.748	ADM2	second-order administrative division	ZM|02|8285556	Zambia|Central|Kapiri-Mposhi District	2015-03-24T15:08:36+0000
+8285557	Masaiti District	-13.409	28.719	ADM2	second-order administrative division	ZM|08|8285557	Zambia|Copperbelt|Masaiti District	2015-03-24T15:08:36+0000
+8301113	Namaacha District	-26.109	32.18	ADM2	second-order administrative division	MZ|04|8301113	Mozambique|Maputo|Namaacha District	2015-03-24T15:08:36+0000
+8349600	Callao	-11.93997	-77.12563	ADM2	second-order administrative division	PE|07|0701	Peru|Callao|Callao	2015-03-24T15:08:36+0000
+8350125	Chorrillos	-12.19265	-77.00589	ADM3	third-order administrative division	PE|15|1501|150108	Peru|Lima|Lima|Chorrillos	2015-03-24T15:08:36+0000
+8349601	Lima	-12.0179	-76.90432	ADM2	second-order administrative division	PE|15|1501	Peru|Lima|Lima	2015-03-24T15:08:36+0000
+8349621	Independencia	-11.98742	-77.04604	ADM3	third-order administrative division	PE|15|1501|150112	Peru|Lima|Lima|Independencia	2015-03-24T15:08:36+0000
+8379588	Dawan	23.04506	112.39747	PPLA4	seat of a fourth-order administrative division	CN|30	China|Guangdong	2015-03-24T15:08:37+0000
+8604719	Kiira Hydreoelectric Power Station	0.45	33.18556	PS	power station	UG|E	Uganda|Eastern Region	2015-03-24T15:08:37+0000
+8556366	El-Ain El-Sokhna Power Station	29.61888	32.35202	PS	power station			2015-03-24T15:08:37+0000
+8407028	Moga district	30.80376	75.14938	ADM2	second-order administrative division	IN|23|042	India|Punjab|Moga district	2015-03-24T15:08:37+0000
+8631771	Yerköy İlçesi	39.64415	34.48386	ADM2	second-order administrative division	TR|66|8631771	Turkey|Yozgat|Yerköy İlçesi	2015-03-24T15:08:37+0000
+8632146	Anamur İlçesi	36.08361	32.82615	ADM2	second-order administrative division	TR|32|8632146	Turkey|Mersin|Anamur İlçesi	2015-03-24T15:08:37+0000
+8632050	Şereflikoçhisar İlçesi	38.9545	33.54801	ADM2	second-order administrative division	TR|68|8632050	Turkey|Ankara|Şereflikoçhisar İlçesi	2015-03-24T15:08:37+0000
+8636069	Ogo Oluwa	7.99013	4.21483	ADM2	second-order administrative division	NG|32|31023	Nigeria|Oyo|Ogo Oluwa	2015-03-24T15:08:37+0000
+8637975	Olamaboro	7.18689	7.52832	ADM2	second-order administrative division	NG|41|23018	Nigeria|Kogi|Olamaboro	2015-03-24T15:08:38+0000
+8634511	Barkin Ladi	9.54969	8.9344	ADM2	second-order administrative division	NG|49|32001	Nigeria|Plateau|Barkin Ladi	2015-03-24T15:08:38+0000
+8638032	Ayamelum	6.55355	6.98694	ADM2	second-order administrative division	NG|25|4007	Nigeria|Anambra|Ayamelum	2015-03-24T15:08:38+0000
+8638163	Ngor-Okpala	5.32019	7.15888	ADM2	second-order administrative division	NG|28|17012	Nigeria|Imo|Ngor-Okpala	2015-03-24T15:08:38+0000
+8638158	Eleme	4.78741	7.14369	ADM2	second-order administrative division	NG|50|33009	Nigeria|Rivers|Eleme	2015-03-24T15:08:38+0000
+8638452	Essien Udim	5.10684	7.64533	ADM2	second-order administrative division	NG|21|3005	Nigeria|Akwa Ibom|Essien Udim	2015-03-24T15:08:38+0000
+8659803	Gombi	10.18948	12.52765	ADM2	second-order administrative division	NG|35|2005	Nigeria|Adamawa|Gombi	2015-03-24T15:08:38+0000
+8638546	Yakurr	5.80608	8.17499	ADM2	second-order administrative division	NG|22|9017	Nigeria|Cross River|Yakurr	2015-03-24T15:08:38+0000
+8693192	Marracuene District	-25.73938	32.67436	ADM2	second-order administrative division	MZ|04|8693192	Mozambique|Maputo|Marracuene District	2015-03-24T15:08:38+0000
+8714549	Chibombo District	-14.65808	28.07376	ADM2	second-order administrative division	ZM|02|8714549	Zambia|Central|Chibombo District	2015-03-24T15:08:39+0000
+8714615	Namacurra District	-17.49137	37.02607	ADM2	second-order administrative division	MZ|09|8714615	Mozambique|Zambézia|Namacurra District	2015-03-24T15:08:39+0000
+8735269	Şā’ir	14.05139	44.10309	ADM3	third-order administrative division	YE|23|8735269	Yemen|Ibb|Şā’ir	2015-03-24T15:08:39+0000
+8740496	Khagrachhari	23.04167	91.995	ADM3	third-order administrative division	BD|8740496	Bangladesh|Khagrachhari	2015-03-24T15:08:39+0000
+8643206	Masaka District	-0.36667	31.7	ADM2	second-order administrative division	UG|C|71	Uganda|Central Region|Masaka District	2015-03-24T15:08:39+0000
+8740934	Kaimur District	25.05077	83.58261	ADM2	second-order administrative division	IN|34|233	India|Bihar|Kaimur District	2015-03-24T15:08:39+0000
+895909	Zimba	-17.3144	26.19643	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:39+0000
+8986057	Angul District	20.84903	85.06079	ADM2	second-order administrative division	IN|21|384	India|Odisha|Angul District	2015-03-24T15:08:40+0000
+895949	Zambia	-14.33333	28.5	PCLI	independent political entity	ZM|00		2015-03-24T15:08:40+0000
+898909	Serenje District	-13	30.5	ADM2	second-order administrative division	ZM|02|898909	Zambia|Central|Serenje District	2015-03-24T15:08:40+0000
+8735409	Raymān	13.99939	44.21496	ADM3	third-order administrative division	YE|23|8735409	Yemen|Ibb|Raymān	2015-03-24T15:08:40+0000
+901344	Ndola	-12.95867	28.63659	PPLA	seat of a first-order administrative division	ZM|08	Zambia|Copperbelt	2015-03-24T15:08:40+0000
+901339	Ndola Rural District	-12.91667	28.66667	ADM2	second-order administrative division	ZM|08|901339	Zambia|Copperbelt|Ndola Rural District	2015-03-24T15:08:40+0000
+905389	Mufulira District	-12.5	28.25	ADM2	second-order administrative division	ZM|08|905389	Zambia|Copperbelt|Mufulira District	2015-03-24T15:08:40+0000
+905395	Mufulira	-12.54982	28.24071	PPL	populated place	ZM|08	Zambia|Copperbelt	2015-03-24T15:08:41+0000
+906042	Monze District	-16	27.25	ADM2	second-order administrative division	ZM|07|906042	Zambia|Southern|Monze District	2015-03-24T15:08:41+0000
+906044	Monze	-16.28333	27.48333	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:41+0000
+907111	Mazabuka	-15.85601	27.748	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:41+0000
+907108	Mazabuka District	-16	28	ADM2	second-order administrative division	ZM|07|907108	Zambia|Southern|Mazabuka District	2015-03-24T15:08:41+0000
+9072680	Kinyerezi	-6.84766	39.20117	ADM3	third-order administrative division	TZ|23|9072680	Tanzania|Dar es Salaam|Kinyerezi	2015-03-24T15:08:41+0000
+9072728	Bandire	-19.51687	33.22599	MN	mine(s)	MZ|10	Mozambique|Manica	2015-03-24T15:08:41+0000
+899859	Pemba	-16.51315	27.37775	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:42+0000
+9072735	Bilene Macia District	-25.01612	33.16889	ADM2	second-order administrative division	MZ|02|9072735	Mozambique|Gaza|Bilene Macia District	2015-03-24T15:08:42+0000
+9072682	Wazo Hill	-6.66744	39.17257	PPL	populated place	TZ|23	Tanzania|Dar es Salaam	2015-03-24T15:08:42+0000
+9072745	Kaushambi District	25.53074	81.37729	ADM2	second-order administrative division	IN|36|174	India|Uttar Pradesh|Kaushambi District	2015-03-24T15:08:42+0000
+9072779	Ladvel	22.91583	73.11824	PPL	populated place	IN|09|483	India|Gujarat|Kheda	2015-03-24T15:08:42+0000
+9072777	Kadodara	21.1616	72.9623	PPL	populated place	IN|09|492	India|Gujarat|Sūrat	2015-03-24T15:08:42+0000
+9072784	Gautam Buddha Nagar	28.35898	77.55076	ADM2	second-order administrative division	IN|36|141	India|Uttar Pradesh|Gautam Buddha Nagar	2015-03-24T15:08:42+0000
+9072803	Gotri	22.31501	73.14381	PPL	populated place	IN|09|486	India|Gujarat|Vadodara	2015-03-24T15:08:42+0000
+9072801	Meramandali	20.78325	85.33688	PPL	populated place	IN|21|383	India|Odisha|Dhenkānāl	2015-03-24T15:08:43+0000
+9072807	Jambuva	22.21704	73.18659	PPL	populated place	IN|09|486	India|Gujarat|Vadodara	2015-03-24T15:08:43+0000
+9072810	Bagodara	23.01506	72.49512	PPL	populated place	IN|09|474	India|Gujarat|Ahmadābād	2015-03-24T15:08:43+0000
+9072811	Chandauli District	25.26134	83.26408	ADM2	second-order administrative division	IN|36|196	India|Uttar Pradesh|Chandauli District	2015-03-24T15:08:43+0000
+9072816	Bhautipratappur	26.44811	80.20335	PPL	populated place	IN|36|164	India|Uttar Pradesh|Kānpur	2015-03-24T15:08:43+0000
+9072818	Kokhraj	25.59653	81.50534	PPL	populated place	IN|36|174	India|Uttar Pradesh|Kaushambi District	2015-03-24T15:08:43+0000
+9072819	Bajipura	21.08917	73.27949	PPL	populated place	IN|09|493	India|Gujarat|Tapi	2015-03-24T15:08:43+0000
+9072820	Barwa Adda	23.85326	86.42086	PPL	populated place	IN|38|354	India|Jharkhand|Dhānbād	2015-03-24T15:08:43+0000
+9072825	Navsari	20.95	72.92	ADM2	second-order administrative division	IN|09|490	India|Gujarat|Navsari	2015-03-24T15:08:43+0000
+9072869	Somanhalli	12.77169	77.50532	PPL	populated place	IN|19|572	India|Karnataka|Bangalore Urban	2015-03-24T15:08:43+0000
+9072872	Ballabhgarh	28.58333	77.51667	PPL	populated place	IN|36|141	India|Uttar Pradesh|Gautam Buddha Nagar	2015-03-24T15:08:43+0000
+9072875	Purnea	25.78	87.47	PPL	populated place	IN|34|211	India|Bihar|Purnia	2015-03-24T15:08:43+0000
+907452	Masuka	-17.2064	27.11311	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:44+0000
+908534	Magoye	-16.00287	27.60586	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:44+0000
+909134	Lusaka District	-15.4307	28.34419	ADM2	second-order administrative division	ZM|09|909134	Zambia|Lusaka|Lusaka District	2015-03-24T15:08:44+0000
+909857	Luanshya District	-13	28.33333	ADM2	second-order administrative division	ZM|08|909857	Zambia|Copperbelt|Luanshya District	2015-03-24T15:08:44+0000
+909863	Luanshya	-13.13667	28.41661	PPL	populated place	ZM|08	Zambia|Copperbelt	2015-03-24T15:08:44+0000
+910107	Livingstone District	-17.802	25.867	ADM2	second-order administrative division	ZM|07|910107	Zambia|Southern|Livingstone District	2015-03-24T15:08:44+0000
+910111	Livingstone	-17.84194	25.85425	PPLA	seat of a first-order administrative division	ZM|07	Zambia|Southern	2015-03-24T15:08:44+0000
+911144	Kitwe District	-12.85	28.25	ADM2	second-order administrative division	ZM|08|911144	Zambia|Copperbelt|Kitwe District	2015-03-24T15:08:45+0000
+912820	Karubwe	-15.15	28.36667	PPL	populated place	ZM|09	Zambia|Lusaka	2015-03-24T15:08:45+0000
+913029	Kapiri Mposhi	-13.97147	28.66985	PPL	populated place	ZM|02	Zambia|Central	2015-03-24T15:08:45+0000
+911148	Kitwe	-12.80243	28.21323	PPL	populated place	ZM|08	Zambia|Copperbelt	2015-03-24T15:08:45+0000
+912036	Katikululo	-12.88949	30.63981	PPL	populated place	ZM|02	Zambia|Central	2015-03-24T15:08:45+0000
+9148987	Budhipadar	20.89851	83.52216	PPLF	farm village	IN|21|393	India|Odisha|Balāngīr	2015-03-24T15:08:45+0000
+9148990	Madola	30.30953	79.07974	PPL	populated place	IN|39|058	India|Uttarakhand|Rudraprayag	2015-03-24T15:08:45+0000
+9148988	Faridabad District	28.46292	77.3716	ADM2	second-order administrative division	IN|10|088	India|Haryana|Faridabad District	2015-03-24T15:08:45+0000
+915082	Kalomo District	-17.147	26.679	ADM2	second-order administrative division	ZM|07|915082	Zambia|Southern|Kalomo District	2015-03-24T15:08:46+0000
+9155066	Hoodi	12.99435	77.71643	PPL	populated place	IN|19|572	India|Karnataka|Bangalore Urban	2015-03-24T15:08:47+0000
+914956	Kalulushi District	-12.66667	28	ADM2	second-order administrative division	ZM|08|914956	Zambia|Copperbelt|Kalulushi District	2015-03-24T15:08:47+0000
+9155660	Canton Las Naves	-1.28333	-79.3	ADM2	second-order administrative division	EC|03|9155660	Ecuador|Bolívar|Canton Las Naves	2015-03-24T15:08:47+0000
+915086	Kalomo	-17.02581	26.48369	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:47+0000
+914959	Kalulushi	-12.84151	28.09479	PPL	populated place	ZM|08	Zambia|Copperbelt	2015-03-24T15:08:47+0000
+9157653	Rewari District	28.19613	76.61607	ADM2	second-order administrative division	IN|10|085	India|Haryana|Rewari District	2015-03-24T15:08:48+0000
+915883	Kafue	-15.76911	28.18136	PPL	populated place	ZM|09	Zambia|Lusaka	2015-03-24T15:08:48+0000
+9161141	Maithon	23.78	86.81	PPL	populated place	IN|38|354	India|Jharkhand|Dhānbād	2015-03-24T15:08:48+0000
+9165958	Pipali	22.38504	72.23459	PPL	populated place	IN|09|474	India|Gujarat|Ahmadābād	2015-03-24T15:08:48+0000
+9165990	Ussisoo	59.0357	25.55335	PPL	populated place	EE|04|0565	Estonia|Järvamaa|Paide vald	2015-03-24T15:08:48+0000
+9156507	Kishenpur	27.72184	77.97546	PS	power station	IN|36|143	India|Uttar Pradesh|Alīgarh	2015-03-24T15:08:48+0000
+9172419	Puerto Libertador	7.68181	-75.78312	ADM2	second-order administrative division	CO|12|23580	Colombia|Córdoba|Puerto Libertador	2015-03-24T15:08:49+0000
+916082	Kabwe District	-14.33333	28.41667	ADM2	second-order administrative division	ZM|02|916082	Zambia|Central|Kabwe District	2015-03-24T15:08:49+0000
+917748	Choma	-16.80648	26.95306	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:49+0000
+9178731	Granada	6.11413	-75.1405	ADM2	second-order administrative division	CO|02|05313	Colombia|Antioquia|Granada	2015-03-24T15:08:49+0000
+9180446	Illela	13.69519	5.36123	ADM2	second-order administrative division	NG|51|608	Nigeria|Sokoto|Illela	2015-03-24T15:08:49+0000
+918385	Chisekesi	-16.44292	27.47086	PPL	populated place	ZM|07	Zambia|Southern	2015-03-24T15:08:50+0000
+917743	Choma District	-16.66667	27.16667	ADM2	second-order administrative division	ZM|07|917743	Zambia|Southern|Choma District	2015-03-24T15:08:50+0000
+919006	Chingola District	-12.5	27.75	ADM2	second-order administrative division	ZM|08|919006	Zambia|Copperbelt|Chingola District	2015-03-24T15:08:50+0000
+9172344	Moñitos	9.22615	-76.13594	ADM2	second-order administrative division	CO|12|23500	Colombia|Córdoba|Moñitos	2015-03-24T15:08:50+0000
+919009	Chingola	-12.52897	27.88382	PPL	populated place	ZM|08	Zambia|Copperbelt	2015-03-24T15:08:50+0000
+9485476	Lagos Island Local Government Area	6.45266	3.39475	ADM2	second-order administrative division	NG|05|9485476	Nigeria|Lagos|Lagos Island Local Government Area	2015-03-24T15:08:51+0000
+9538007	Tana River	-2.59901	40.33862	LK	lake	KE|48	Kenya|Tana River	2015-03-24T15:08:51+0000
+922245	Sakania	-12.75	28.56667	PPL	populated place	CD|00		2015-03-24T15:08:56+0000
+9485473	Oshodi-Isolo Local Government Area	6.53233	3.31414	ADM2	second-order administrative division	NG|05|9485473	Nigeria|Lagos|Oshodi-Isolo Local Government Area	2015-03-24T15:08:56+0000
