@@ -2,7 +2,7 @@
 
 # use geoname ID field in a TSV to retrieve records from geonames SQLite db
 # build the SQLite db with https://github.com/albert-decatur/geonames2sqlite
-# user args: 1) input TSV with just project id, geoname id, and precision code, 2) number of geoname id field in input TSV, 3) geonames sqlite db
+# user args: 1) input TSV with just project id, geoname id, and precision code in that order, 2) number of geoname id field in input TSV, 3) geonames sqlite db
 # example use: $0 tk.tsv 2 allCountries_2014-09-29.sqlite
 
 # make function to convert arbitrary table to TSV
